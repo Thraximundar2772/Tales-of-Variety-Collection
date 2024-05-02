@@ -58,27 +58,6 @@
               <attribute id="UUID" type="FixedString" value="9deeb371-f01e-41b4-b20e-c5eee0751b12"/>
             </node>
             <node id="Module">
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00700000004"/>
-            </node>
-            <node id="Module">
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00700000002"/>
-            </node>
-            <node id="Module">
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00700000003"/>
-            </node>
-            <node id="Module">
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01200000003"/>
-            </node>
-            <node id="Module">
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01200000004"/>
-            </node>
-            <node id="Module">
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00200000002"/>
-            </node>
-            <node id="Module">
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-5a0100000002"/>
-            </node>
-            <node id="Module">
               <attribute id="UUID" type="FixedString" value="44f6816e-966b-464a-b185-1f2e03a60cfa"/>
             </node>
             <node id="Module">
@@ -755,55 +734,6 @@
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="Valkrana's Spellbook"/>
               <attribute id="UUID" type="FixedString" value="9deeb371-f01e-41b4-b20e-c5eee0751b12"/>
-              <attribute id="Version" type="int32" value="1"/>
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="OneDnD_DeflectAttacks"/>
-              <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="OneDnD Monk - Deflect Attacks"/>
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00700000004"/>
-              <attribute id="Version" type="int32" value="1"/>
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="OneDnD_MartialArts"/>
-              <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="OneDnD Monk - Martial Arts"/>
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00700000002"/>
-              <attribute id="Version" type="int32" value="1"/>
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="OneDnD_MonksDiscipline"/>
-              <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="OneDnD Monk - Monk's Discipline"/>
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00700000003"/>
-              <attribute id="Version" type="int32" value="1"/>
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="OneDnD_MagicalCunning"/>
-              <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="OneDnD UA7 Warlock Magical Cunning"/>
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01200000003"/>
-              <attribute id="Version" type="int32" value="1"/>
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="OneDnD_PactInvocations"/>
-              <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="OneDnD UA7 Warlock Pact Invocations"/>
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01200000004"/>
-              <attribute id="Version" type="int32" value="1"/>
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="OneDnD_ShortRestRageRecovery"/>
-              <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="OneDnD UA8 Barbarian Short Rest Rage Recovery"/>
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00200000002"/>
-              <attribute id="Version" type="int32" value="1"/>
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="OneDnD_StarryWisp_Glitter"/>
-              <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="OneDnD UA8 Cantrip Starry Wisp - Glitterbomb"/>
-              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-5a0100000002"/>
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
