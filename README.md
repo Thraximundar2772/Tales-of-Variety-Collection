@@ -1,2 +1,2 @@
-# Tales-of-Variety-Collection
-Repo Tales of variety documents
+# Tales of Variety - Collection
+
