@@ -1,0 +1,203 @@
+Index	Name	Author	FileName	Tags	Dependencies	URL
+0	CommunityLibrary	BG3 Community	CommunityLibrary_396c5966-09b0-40a1-af3f-93a5e9ce71c0.pak	API, Core, Library		
+1	5eSpells	DiZ	5eSpells_fb5f528d-4d48-4bf2-a668-2274d3cfba96.pak			
+2	UnlockLevelCurve	Charis	UnlockLevelCurve_d903677e-f24b-48ec-ab20-98dcc116a371.pak			
+3	UnlockLevelCurve_Patch_5eSpells_Improvement_Lv2	Charis	UnlockLevelCurve_Patch_5eSpells_Improvement_Lv2_7510d1f6-adb7-404a-9911-c82427f31653.pak			
+4	UnlockLevelCurve_Patch_Double	Charis	UnlockLevelCurve_Patch_Double_e53ae4b5-a922-47ef-b69d-d55c5745a65b.pak			
+5	MoreReactiveCompanions_Configurable	LightningLarryL	MoreReactiveCompanions_Configurable_2b1e81bb-d0aa-4617-b3e9-271c7b02f252.pak			
+6	ExtraAttackCompatibility	3XC4L1B3R	ExtraAttackCompatibility_4222f86c-4408-4659-8185-ea93b7590398.pak			
+7	TagFramework	BG3-Community-Team	TagFramework_2cba831e-bc5e-4ed5-b831-b5c4580b02b0.pak	Template		
+8	Dr. Kekyll's Grappling Framework	drkekyll	GrapplingFramework_239127c3-1efe-493d-85d3-8518c8d8819b.pak			
+9	Customized Subclass Icons	GraphicFade	CustomizedSubclassIcon_915fbc23-6453-4ee9-98ed-a4ff1ffc6d4a.pak			
+10	VladsGrimoire	VladmirFFXI	VladsGrimoire_66666666-4444-4444-4444-666666668000.pak			
+11	Icon_Library_SHV	Shivero	Icon_Library_SHV_e3df13c4-2180-46e6-af53-77c64354f30f.pak			
+12	VFX_Library_SHV	Shivero	VFX_Library_SHV_dd19db12-96c0-4bca-9ef6-e8d733801d23.pak			
+13	VFX_Vault_SHV	Shivero	VFX_Vault_SHV_f51ce3e4-fe0d-42e8-a4f1-b7234c9b7e9c.pak			
+14	Immersive_Lights_SHV	Shivero	Immersive_Lights_SHV_de07556f-880e-4561-bd4d-cb842db3eb33.pak			
+15	Elemental_Spells_SHV	Shivero	Elemental_Spells_SHV_332f3ebe-cf45-4c4e-ab39-d1fd7a43c1a4.pak			
+16	Valkrana's Spellbook	Sailor Cat	Valkrana's Spellbook_9deeb371-f01e-41b4-b20e-c5eee0751b12.pak			
+17	Bard Magical Secrets PHB	Lumaterian	Bard Magical Secrets PHB_44f6816e-966b-464a-b185-1f2e03a60cfa.pak			
+18	ImprovedBreathWeapon	3XC4L1B3R	ImprovedBreathWeapon_9f3714fa-9f5e-4903-98a0-799978170e41.pak			
+19	Party Limit Begone Universal	Sildur	PartyLimitBegoneUniversal_1d6c4030-67b9-4b0a-b3ab-caf6dd73d1af.pak			
+20	Addon_ImprovedBreathWeapon_Fizbans	3XC4L1B3R	Addon_ImprovedBreathWeapon_Fizbans_58cbaf38-98f1-4b7f-90e1-ef2b05133483.pak		ImprovedBreathWeapon	
+21	AbsoluteWrath	Grimpreacher	AbsoluteWrath_9010c099-c1e7-4ea8-8990-a883d6814975.pak			
+22	KvCampEvents	Kvalyr	KvCampEvents_1b8d381f-6210-4473-85be-600457267a87.pak			
+23	LeggyEquip_SHV	Shivero	LeggyEquip_SHV_7d388aee-a224-4934-8107-5a145e8a6311.pak			
+24	NoIntroPak	Caites	NoIntroPak_12a1fc9f-e39d-43f2-ab49-25026f073e46.pak			
+25	BagsBagsBagsReforged	Dor	BagsBagsBagsReforged_38733c1e-1e21-4db8-abdd-7e7599ec05fb.pak			
+26	unique_tav	kartoffel Trips KittHaven	unique_tav_4cb0fd40-7212-4fe9-8733-9a8dbc6637ae.pak			
+27	unique_tav_ASTRLGE_patch	kartoffel	unique_tav_ASTRLGE_patch_bf718766-2a35-4254-ae0a-3cbb20bbbe70.pak			
+28	Impactful Backgrounds	Lumaterian	Impactful Backgrounds_0fc7d460-56fc-4208-9f40-da66d96e9ade.pak			
+29	godsextra	LostSoulMan	godsextra_350c3ba5-9d59-4acd-b6b6-5d718be75029.pak			
+30	Deity Tag Activator	Lightboom	DeityTagActivator_05827e11-37eb-4820-8916-1fa2060a84c7.pak			
+31	FamilyLegacy	Codey Hanson	FamilyLegacy_12d4fdc5-0b13-460f-91c5-beaac4ab9e86.pak			
+32	Dragonborn Guardians	Trips	Trips_DGB_Daisy_c4f1b59d-552e-4867-87e5-039d4d448f09.pak			
+33	SatyrRace	labotor	SatyrRace_68315895-8bd4-4d53-aefc-1b853ffc1461.pak			
+34	Whispers of the Divine: Aasimar Script Extender Edition	Trips	Trips_Aasimar_4806bd2a-929b-406e-b1d4-2e0e9cc23bb2.pak			
+35	Ghastly Ghouls: Playable Undead Race	Ghouls0Rules	UndeadRace_f3d4e722-e576-43ce-a585-cfffcfcbcf40.pak			
+36	Whispers of the Fey: Changelings (Race)	Trips	Trips_Changeling_eaf83c50-1f22-4ce8-a825-25f07caf9faa.pak	Race		
+37	Whispers of the Fey: Goblins (Race)	Trips	Trips_Goblin_ca81f091-bf1b-4bb6-90dd-1c4ef83fd798.pak	Race		
+38	FollowersOfZerthimon	Suhra	FollowersOfZerthimon_ae6eacb7-f346-418f-89a9-f0e4c697baab.pak		SharedDev, Shared, Gustav, GustavDev	
+39	FizbansTreasuryOfDragons	3XC4L1B3R	FizbansTreasuryOfDragons_1e64a434-4318-42fe-9388-e6aa49505094.pak			
+40	BB26DragonbornSubraceExpansion(Fizbans)	Backburner26	BB26DragonbornSubraceExpansion(Fizbans)_05fa72c7-be18-4398-b0c6-a5c11fc897f6.pak			
+41	Blood Hunter	Wolfe	Blood_Hunter_411d5c6e-2bd5-4e4e-ab72-67dcc37b8c0e.pak			
+42	Blood Hunter Expanded	xTekek	Blood Hunter Expanded_266d02b7-f085-4aa4-9929-682662c76f09.pak			
+43	Magus	Gycicada	Magus_a827da36-4086-4d47-9945-f45555555555.pak			
+44	Skald	Tet42	Tet42_Skald_825395d0-b5f1-4d5c-bd1a-df581dbbf442.pak			
+45	Artificer	Lykon, multiple authors, see https://github.com/Kidel/BG3_Artificer/graphs/contributors	Artificer_88fadf2c-152d-404e-b863-c12273559e1c.pak			
+46	Half-Tiefs	labotor	TieflingHybrids_144130e9-5eaf-48c3-b28f-446a0c2481aa.pak			
+47	Artificer-5e-Addon	Multiple authors, see https://github.com/Kidel/BG3_Artificer/graphs/contributors	Artificer-5e-Addon_a35b2cf8-5047-487a-83a4-537d36245b6b.pak	Patch		
+48	Arcane Trickster Enhanced	Lumaterian	Arcane Trickster Enhanced_3246dfee-e767-4bcd-b866-b509222696b2.pak			
+49	Circle of Spores Enhanced	Havsglimt	CircleofSporesEnhanced_234262d5-7bf8-4ecf-a0f9-0d5544fb40ed.pak			
+50	Circle of the Land Enhanced	Lumaterian	Circle of the Land Enhanced_943fe63a-161c-4865-9191-3061287ddc23.pak			
+51	College of Valour Enhanced	Lumaterian	College of Valour Enhanced_8b1c26ca-d18f-4df3-8094-2c414b522923.pak			
+52	Eldritch Knight Enhanced	Lumaterian	Eldritch Knight Enhanced_24de6568-a2bc-4127-a08f-c6f6242b9185.pak			
+53	Knowledge Domain Enhanced	Lumaterian	Knowledge Domain Enhanced_47697342-bf42-4316-b188-d05811298854.pak			
+54	School of Transmutation Enhanced	Lumaterian	School of Transmutation Enhanced_12a74e1f-b60b-4d65-a132-7089efc2067f.pak			
+55	War Domain Enhanced	Lumaterian	War Domain Enhanced_916f28a7-e72c-4a84-8d38-9e38fcfb015e.pak			
+56	Solidarity Domain	Lumaterian	Solidarity Domain_a24b52b7-067e-4195-b9cf-a7dbf0ce9b0f.pak			
+57	Strength Domain	Duglboo	Strength Domain_7211c56e-6069-4f13-a895-a07731908e8c.pak			
+58	Zeal Domain	Lumaterian	Zeal Domain_55301aec-88fc-4f77-8a4b-67bc28741db1.pak			
+59	Dimension_Traveler	RuoYu	Dimension_Traveler_ed1b4127-3501-4249-85db-9af901334b2a.pak			
+60	Dimension Traveler - Unlock Level Curve Patch	RuoYu	Dimension_Traveler_ULCP_a2fe4685-b4a7-4cf3-b831-52ba3f902c62.pak			
+61	Aberrant Mind	Havsglimt	AberrantMind_1999672d-97f0-45aa-893c-f4ed5e800485.pak			
+62	Chronurgy Magic	Havsglimt	ChronurgyMagic_646d127d-6e6a-4d09-a2b0-2ec15b572e47.pak			
+63	ChronurgyMagic5eSpells	kocus	ChronurgyMagic5eSpells_275fc6ac-a99c-41b3-91fa-85b9131179c7.pak			
+64	Circle of Stars	Havsglimt	CircleofStars_7588b857-8bae-4967-a73c-20f7833ae26f.pak			
+65	Circle of Stormchasers	Havsglimt	CircleofStormchasers_3876189d-cb2a-4867-88a6-f169371f8783.pak			
+66	Circle of the Sea	CorianderBoi	CircleOfTheSea_d688a8a5-c24b-482b-bf6a-f72afb813027.pak			
+67	Circle of the Shepherd	Havsglimt	CircleoftheShepherd_9f5832ae-2cf3-49c5-9c9a-69d91d05a778.pak			
+68	Circle of Wildfire	Havsglimt	CircleofWildfire_26cc7a9c-f2f5-48ee-b829-f69b9698edb1.pak			
+69	Clerics	Baltavi	Clerics_eef7b885-1423-4096-abd6-7a5db5f871db.pak			
+70	College of Spirits	Havsglimt	CollegeofSpirits_beb361b4-cb75-4e75-8e54-c38fafeccc32.pak			
+71	Graviturgy Magic	Havsglimt	GraviturgyMagic_c62ae435-c1a4-41b7-b887-4f24a6dcd846.pak			
+72	Lunar Sorcery	Havsglimt	LunarSorcery_ee2c2648-e86f-408c-b5c5-eae25e5d4961.pak			
+73	Oath of the Watchers	Mako27	Oath_Watchers_e0e1ffe2-6e39-489b-9b70-b30e9025c5c7.pak			
+74	Storm Sorcery Enhanced	Lumaterian	Storm Sorcery Enhanced_29bf6371-99fe-4cb0-98e4-97989d8748a8.pak			
+75	Asgorath_Chaos_Sorcerer_SHV	Shivero	Asgorath_Chaos_Sorcerer_SHV_ab0af8e1-dd78-4aa7-9f2e-d4c15a89fca0.pak			
+76	Oath of Conquest	Havsglimt	OathofConquest_74b2a448-6771-4289-9393-d359c3b79596.pak			
+77	Oath of Redemption	Havsglimt	OathofRedemption_3933b821-ccb1-48d6-b2ac-f5a4d7d5a375.pak			
+78	Oath of the Bleak Walkers	Havsglimt	OathoftheBleakWalkers_a18a9e91-e25a-4954-82d4-2bfe570fa0c6.pak			
+79	Oath Of the Phoenix	bluejoe1	OathOfthePhoenix_1f79ea98-105a-46b1-a04b-ac07a9a8ba9d.pak			
+80	Oath Of Treachery	bluejoe1	OathOfTreachery_f890aa9d-6318-4bbd-adad-10d869edde17.pak			
+81	RuneKnight5e	Sumradagnoth	RuneKnight5e_97d0a967-2662-4f46-bf4c-a02adfbcaca8.pak			
+82	RuneKnight5e Inscribe on Rest Patch	Sumradagnoth	RuneKnight5e_RestPatch_044f1c73-27c2-464d-9fb2-6fcbf2fae8a3.pak			
+83	Swarmkeeper	Havsglimt	Swarmkeeper_2831844d-e3bf-4d46-9920-71a2af947aac.pak			
+84	WarlockUndead	CyberSpektre	WarlockUndead_95ba3595-2004-4f3c-96b0-4ab671fa1e23.pak			
+85	ArcaneArcher5e	Sumradagnoth	ArcaneArcher5e_8af1c5ac-6bae-4b3d-8aa1-ed644d4b7c93.pak			
+86	Banneret5e	Sumradagnoth	Banneret5e_9fee37d5-7ffa-4f85-ac7d-feb431ece6e8.pak			
+87	Battlerager5e	Sumradagnoth	Battlerager5e_39d6fda9-120e-4752-aeba-36ac09131ed9.pak			
+88	Beast5e	Sumradagnoth	Beast5e_4e0a3f61-f70c-4cd4-a9e9-e9f57c452bad.pak			
+89	DarkRanger	Tet42	DarkRanger_7c7880b6-0ce1-4a03-8b1e-cf12e52aef94.pak			
+90	Death Soul	Zeysir	DeathSoul_4e7b12d6-f7e7-47c3-ad16-e5732bd43688.pak			
+91	Giant5e	Sumradagnoth	Giant5e_1c6eff65-2091-4532-93a5-9d4d483971b7.pak			
+92	HorizonWalker5e	Sumradagnoth	HorizonWalker5e_0fa9a997-4412-4303-bfc8-c013967031c9.pak			
+93	MonsterSlayer5e	Sumradagnoth	MonsterSlayer5e_685371b8-e9ef-42c4-9621-62bfd795f788.pak			
+94	Samurai5e	Sumradagnoth	Samurai5e_280f6b67-f7cd-4b29-81a9-a2023431e909.pak			
+95	StormHerald5e	Sumradagnoth	StormHerald5e_6d39f0ca-cc7e-431e-ae53-a8b96bb11a21.pak			
+96	Zealot5e	Sumradagnoth	Zealot5e_8a94d923-8a98-45b3-b4ed-1b42049707cb.pak			
+97	ASTRL Tiefling Subraces	Astralities	ASTRLtieflings_167b846f-0a0b-4e0c-a9d0-df448be1320a.pak			
+98	ASTRL Hair Color Collection	Astralities	ASTRLhaircolorsv2_7a741e61-cf7c-46cc-b1b5-b67fbefd2ff4.pak			
+99	ASTRL Hair Colors	Astralities	ASTRLhaircolors_525600ac-ca07-4745-a5bc-0a620975e2f3.pak			
+100	ASTRL Haircolor Overhaul	Astralities	ASTRLhairoverhaul_0ea2fbb8-6d23-4910-9a3b-a20fbd555240.pak			
+101	ASTRL Natural Skintones	Astralities	ASTRLnaturalskintones_af7f742c-c484-441e-8d06-eda735233068.pak			
+102	ASTRL Sublime Skintones	Astralities	ASTRLsublimeskintones_da0e8d69-535c-4218-a42f-118c377184ca.pak			
+103	ASTRL Fantasy Skintones	Astralities	ASTRLfantasyskintones_78537082-46a0-42c7-a718-d2dc9950cfdd.pak			
+104	ASTRL Glowing Eyes	Astralities	ASTRLglowingeyes_d1927184-8763-4d70-ae52-8295f791548a.pak			
+105	Half Tief Modded Races Tails Patch	Padme4000	Half-Tiefs_Tail_Patch_f9f73d62-60f8-45c5-b6d0-48abd0c880d6.pak			
+106	Patches for CC Races lsx	Padme4000	P4_Hair_Makeup_WorkTogether_b2c7c572-faaa-43ae-8609-29d16fd83bb0.pak			
+107	FoZ Patches_For_CC_Races_lsx	Padme4000	FoZ Patches_For_CC_Races_lsx_52aa8beb-9ab0-4e0c-a75a-14387720d1a2.pak			
+108	BasketEquipmentSFW	AnteMaxx	BasketEquipmentSFW_b200f917-43ec-45d9-9dff-ac6191d62388.pak			
+109	Pouch of Wonders	LennardF1989	PouchOfWonders_3ec2e2c2-6808-4473-bdb9-ef7c337343c1.pak			
+110	Reliable Rolls - A	MaskedRPGFan	Reliable Rolls_55a7babf-1b39-4656-8fc1-650b4879a10b.pak	Passives, Rolls		
+111	Ring Of Gods	Palmaman33	RingOfGods_c53a183b-10c0-4bcf-ab4d-296f60ca972d.pak			
+112	Sword Of Gods	Palmaman33	SwordOfGods_46b38455-1799-45fb-9d5c-dfb2667874e7.pak			
+113	Sword Of Gods - One Handed	Palmaman33	SwordOfGods_onehanded_e241dad4-8d72-4f4b-9b88-f2a077c6f60e.pak			
+114	TutorialChestSummoning	wesslen	TutorialChestSummoning_505c630c-79fa-49b6-9f21-29a5f2322c2d.pak			
+115	CompatibilityFramework	BG3 Community	SubclassCompatibilityFramework_67fbbd53-7c7d-4cfa-9409-6d737b4d92a9.pak	Template		
+116	CommunityLibraryFR	BG3 Community / Thraximundar2772	CommunityLibrary_2fa8f884-153a-45dd-8475-9aa663da8339.pak	Translation		
+117	GrapplingFramework_FR	Ballzeh	GrapplingFramework_FR_4fa40a0d-84d3-4d71-85dd-acbb611280b5.pak			
+118	AbsoluteWrath_FR	BG3 Mod Translator	AbsoluteWrath_FR_ca0b1dd8-1aeb-49d7-a124-4918b65e972f.pak			
+119	Trips_Aasimar_FR	Ballzeh / Thraximundar2772	Trips_Aasimar_FR_fa0cf28c-1701-4d8d-a899-19375d03be00.pak	Translation		
+120	AberrantMind_FR	BG3 Mod Translator	AberrantMind_FR_ad32003c-631f-4557-9f5c-288777f87990.pak			
+121	ArcaneArcher5e FR	Sewayn	ArcaneArcher5e_FR_8af1caz35ac-6bs1eae-4wb43d-8a2aa1-ed6404ynd4b7c93.pak			
+122	Artificer_FR	Ballzeh	Artificer_FR_b50aa856-9ab5-4a4b-a57a-6d472f91f074.pak			
+123	Legendary Equipment FR	Thraximundar2772	Legendary Equipment FR_c998546a-15da-4cd0-8276-b5fe61ae5b3d.pak	Translation		
+124	Asgorath_Chaos_Sorcerer_SHV_FR	Thraximundar2772	Asgorath_Chaos_Sorcerer_SHV_FR_00353746-780e-48f5-b954-ea54729547ed.pak	Translation		
+125	ASTRL Tiefling Subraces_FR	kusanagi942	ASTRLtieflings_FR_8264c939-1e8b-4258-b252-85eaff67bb5d.pak			
+126	BagsBagsBagsReforgedFR	Friipside	BagsBagsBagsReforgedFR_b70e2f3a-8900-4331-ab69-9a044e1e072b.pak			
+127	Banneret5e FR	Sewayn	Banneret5e_FR_9fee3s31e7d5-7fw4fa-4f825a-ac70yd-feb49431ence6e8.pak			
+128	Battlerager5e FR	Thraximundar2772	Battlerager5e_59973217-c4e9-4d40-b7e1-4c612425a9ae.pak	Translate		
+129	HorizonWalker5e FR	Thraximundar2772	HorizonWalker5e_1a7ea1ca-922f-4b0f-8a06-28e9a9b0170c.pak	Translation		
+130	MonsterSlayer5eFR	Thraximundar2772	MonsterSlayer5e_25c124b9-d1e8-4cab-a937-e10181bd28ac.pak	Translation		
+131	Zealot5e FR	Thraximundar2772	Zealot5e_e2146dac-359c-4dbc-9bee-544a4f050c86.pak	Translate		
+132	BB26DragonbornSubraceExpansion(Fizbans)_FR	kusanagi942	BB26DragonbornSubraceExpansion(Fizbans)_FR_873ee25d-ef55-43a6-9363-60157c05b1cb.pak			
+133	Beast5eFR	Thraximundar2772	Beast5e_7101c16e-c786-4ea4-88d9-cfeeb09e70f1.pak	Translation		
+134	Blood Hunter Expanded FR	Sewayn	Blood Hunter Expanded_FR_266sd032b7-f08e15-4a2wa4-994z29-6826y562nc76f09.pak			
+135	Chronurgy Magic FR	Sewayn	ChronurgyMagic_FR_646d1se3127d-6e6w4a-4d2a09-a2b00-2ec1yn54b5972e47.pak			
+136	Circle of Spores Enhanced_FR	kusanagi942	CircleofSporesEnhanced_FR_b6f0701d-0c6d-4294-ba82-d15842fbcf27.pak			
+137	Circle Of StormChasers Patch FR	Sewayn	CircleofStormchasers_FR_1447130e9-5e0af-481c3-b28f-446a40c2481aa.pak			
+138	CircleofStars_FR	Ballzeh	CircleofStars_FR_26976f74-e9f3-412e-875a-2a1f6b7bfac5.pak			
+139	CircleOfTheSea_FR	BG3 Mod Translator	CircleOfTheSea_FR_99c37d2a-354a-48ff-affd-ad37c7b16644.pak			
+140	CircleofWildfire_FR	Ballzeh	CircleofWildfire_FR_4335e215-4f14-4997-b0f0-cf5f028c78bb.pak			
+141	Clerics_TrueFR	Ballzeh	Clerics_TrueFR_6a63300f-a1b1-4264-8af1-bf78a8f78320.pak			
+142	College of Valour Enhanced FR	Thraximundar2772	College of Valour Enhanced_d69c7da8-1f6b-423b-ad15-5f4048d18efa.pak	Translation		
+143	CollegeofSpirits_FR	Ballzeh	CollegeofSpirits_FR_ab0e7157-5631-4cae-980f-070dd2517579.pak			
+144	DarkRanger_FR	BG3 Mod Translator	DarkRanger_FR_1af53c8e-f690-44c7-a949-03206baeed6b.pak			
+145	Death Soul FR	Sewayn	DeathSoulFR_4e7sb12ed6-f7we7-4a7c3-ady16-e5732bd43n688.pak			
+146	Dimension_Traveler FR	Sewayn	Dimension_TravelerFR_ed1bs41e27-35w01-42a49-85ydb-9af90n1334b2a.pak			
+147	Elemental_Spells_SHV_FR	Thraximundar2772	Elemental_Spells_SHV_2e4c6be9-8e78-41ea-8c3f-79488779f6db.pak	Translation		
+148	FamilyLegacy_FR	Solmyr	FamilyLegacy_FR_c8b3bbc9-c449-4ede-a0f0-5d96b29257c8.pak			
+149	FizbansTreasuryOfDragons_FR	Ballzeh	FizbansTreasuryOfDragons_FR_8e0085f5-e93c-4e2d-a4af-f6ed2a413736.pak			
+150	FollowersOfZerthimon_FR	Fenrules	FollowersOfZerthimon_FR_cfaefdb7-0f8c-4ef7-a76a-4a4e444a2c33.pak			
+151	Giant5e_FR	BG3 Mod Translator	Giant5e_FR_e41dab78-53f4-46ad-9b4d-d96e8240a86c.pak			
+152	godsextra_French	Keviinn86	godsextra_French_acd04a28-5a0c-11ee-8c99-0242ac120002.pak			
+153	GraviturgyMagic_FR	Ballzeh	GraviturgyMagic_FR_d1163ecc-195c-4294-b27a-0143758ec50c.pak			
+154	Impactful Backgrounds FR	Thraximundar2772	Impactful Backgrounds_5b3be250-96f5-4ca3-a5c0-b7408bb99ae1.pak	Translation		
+155	ImprovedBreathWeapon_FR	kusanagi942	ImprovedBreathWeapon_FR_b82d41b9-2535-4f9d-83dd-87ede3359c58.pak			
+156	Ambition Domain FR	Thraximundar2772	Ambition Domain_12c1ceef-cedb-4083-9c3d-4532c93c8ecf.pak	Translation		
+157	Solidarity Domain FR	Thraximundar2772	Solidarity Domain_a20ed088-8aaa-4b4c-84e0-1a2f5c50907b.pak	Translation		
+158	Strenght Domain FR	Traximundar2772	Strenght Domain_741f23d5-a2b7-4e7d-9b14-5cbc739e78e9.pak	Translation		
+159	Zeal Domain FR	Traximundar2772	Zeal Domain_c2a58503-05b1-4709-b9ae-4f43037c1176.pak	Translation		
+160	Lunar Sorcery FR	Thraximundar2772	LunarSorcery_11474f48-bff1-4b0b-83df-bc160b450731.pak	Translation		
+161	Magus Patch FR	Sewayn	Magus_FR_a827dae37-4086-4t47-9945-f455fd23142049.pak			
+162	Oath Of the Phoenix FR	Sewayn	OathOfthePhoenix_FR_1f79es1a98-1052ea-46w4b1-a054ab-ac0n37a9a8yba9d.pak			
+163	Oath of the Watchers_FR	kusanagi942	Oath_Watchers_FR_84a9d4e2-a54d-4fdd-8f3f-e6f27b466b87.pak			
+164	OathofConquest_FR	Ballzeh	OathofConquest_FR_141b8809-3604-4349-9a3a-4e9f4af17ed0.pak			
+165	RuneKnight5e FR	Thraximundar2772	RuneKnight5e_c69cbf9d-ff78-4d12-97fd-888abfe879cf.pak	Translation		
+166	Samurai5e_FR_FR	BG3 Mod Translator	Samurai5e_FR_FR_1fd196b6-b49a-4ef5-bd9c-380c0c34572f.pak			
+167	SatyrRace_FR	kusanagi942	SatyrRace_FR_226cc41b-9926-437b-ab15-a2dcfdda355b.pak			
+168	School of Transmutation Enhanced FR	Thraximundar2772	School of Transmutation Enhanced_516ef039-d95d-404f-b937-999a9228afb4.pak	Translation		
+169	Storm Sorcery Enhanced_FR	BG3 Mod Translator	Storm Sorcery Enhanced_FR_158089d0-014d-45cd-9068-4da8a905fb14.pak			
+170	StormHerald5e_FR	BG3 Mod Translator	StormHerald5e_FR_456625aa-05ca-4b80-a91b-90299aeb8ddc.pak			
+171	Swarmkeeper FR	Sewayn	Swarmkeeper_FR_2831184s4d-e493bef-4dw246-9a0920-7y1a24afn3947aac.pak			
+172	Tet42_Skald_FR	BG3 Mod Translator	Tet42_Skald_FR_1245ff91-b491-4b24-92ac-c082fadb6515.pak			
+173	Trips_ChangelingFr	Fenrules	Trips_ChangelingFr_7abb945d-d542-440c-af51-b50251ef1af7.pak			
+174	Trips_Goblin_FR	Fenrules	Trips_Goblin_FR_69b1ae2d-fb88-4328-86d0-a0a50a30e7eb.pak			
+175	Undead Race_FR	BG3 Mod Translator	UndeadRace_FR_590e570a-0e63-41fa-a281-c90c1b20d0e9.pak			
+176	UnlockLevelCurve_FR	Ballzeh	UnlockLevelCurve_FR_2778196e-290a-4cd0-8b62-e900eca972fc.pak			
+177	War Domain Enhanced FR	Thraximundar2772	War Domain Enhanced_388904f7-0abb-4df9-a23a-7905af517fdf.pak	Translation		
+178	WarlockUndeadFr	Fenrules	WarlockUndeadFr_5f3bb322-b305-415d-9d07-c49b46ff188a.pak			
+179	5eSpells_FR	Fenrules Ballzeh Thraximundar2772	5eSpells_FR_4f1f9650-c6aa-43d6-8b14-b19b3951f3d1.pak			
+Override	BCPP_16x9_6chars5x6inventory	Caites	BCPP_16x9_6chars5x6inventory_f3aa4ed3-4814-41f2-b2c5-9457eb72bff3.pak			
+Override	BetterCombatLog2	Caites	BetterCombatLog2_8d5e08fa-f599-4811-86db-dd4e7586d53f.pak			
+Override	BetterContainers6x7	Caites	BetterContainers6x7_1c671c38-7446-4425-b411-21ab69579016.pak			
+Override	BetterContextMenu	Caites	BetterContextMenu_ecf79cc7-5d1a-4699-a8a8-e49d5cc4ad5e.pak			
+Override	BetterCursorTextPanel	Caites	BetterCursorTextPanel_5fed4ffe-6e91-4f6f-905c-9cdf971f9cec.pak			
+Override	BetterHotBar2	Caites	BetterHotBar2_ffb70adb-4502-4e7b-82e5-4fd441b1473e.pak			
+Override	BetterInventoryUI_Default_IUI	Caites	BetterInventoryUI_Default_IUI_3b48947b-024f-4990-8705-aaf8a4cd230f.pak			
+Override	BetterLoadingScreens16x9Fullscreen	Caites	BetterLoadingScreens16x9Fullscreen_d2c4f90a-9e47-4643-a14c-a7e5a2084a6a.pak			
+Override	BetterTargetInfo	Caites	BetterTargetInfo_0de6485d-4130-4ad1-aecc-261aa8ef885f.pak			
+Override	BetterTooltips	Caites	BetterTooltips_03566e4a-e118-44ae-95ee-db14e3000755.pak			
+Override	BetterVariousWidgetsAIO	Caites	BetterVariousWidgetsAIO_3a07c631-7584-44a3-be6b-65017ce5a07c.pak			
+Override	CPCCE	Caites	CPCCE_034b2e89-ae3a-4e78-95a7-96bfa4889b75.pak			
+Override	DynamicSidebar169Pads_10chars	Caites	DynamicSidebar169Pads_10chars_82d1b5b7-5542-4a54-a397-302d98c7df53.pak			
+Override	Humanoid Tag Scratch Fix	labotor	HumanoidTagFix_fc2895e0-1b92-4d18-a5b6-2206ab41fce4.pak			
+Override	ImprovedUI	AlanaSP,ShinyHobo,Djmr,Zee	ImprovedUI_00000000-0000-0000-0000-ImprovedUI12.pak			
+Override	ImprovedUI Assets		Game_C:\Users\Thraximundar\AppData\Local\Larian Studios\Baldur's Gate 3\Mods\ImprovedUI Assets.pak			
+Override	ModFixer		Gustav_C:\Users\Thraximundar\AppData\Local\Larian Studios\Baldur's Gate 3\Mods\ModFixer.pak			
+Override	NoPressAnyKeyMenu	Caites	NoPressAnyKeyMenu_5c8badce-e6a2-48f4-ac9c-55ba2c33a7bc.pak			
+Override	Patches_for_VFX_Heads	Padme4000	Patches_for_VFX_Heads_91bb3015-e00e-4263-b88d-a2e54b0f8424.pak			
+Override	SlightlyBetterSplitItem	Caites	SlightlyBetterSplitItem_e95d8740-9ce6-42d2-af85-aaa701031480.pak			
+Override	SlightlyBetterTopbar169	Caites	SlightlyBetterTopbar169_4a07d7c3-7fe4-43c6-8936-b01dad9fcc81.pak			
+Override	Trips_Shaders	Trips	Trips_Shader_166bdea1-ec32-4cdb-bd75-98affd58dd92.pak			
