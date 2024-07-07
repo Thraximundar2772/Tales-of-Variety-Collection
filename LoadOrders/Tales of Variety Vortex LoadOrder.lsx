@@ -130,6 +130,18 @@
               <attribute id="UUID" type="FixedString" value="9deeb371-f01e-41b4-b20e-c5eee0751b12"/>
             </node>
             <node id="Module">
+              <attribute id="UUID" type="FixedString" value="b91c94d2-43a6-4764-9518-3fe63cf55b95"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-5a0100000002"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="25d1ef57-6ca4-4be4-95a4-1d3b1b7bc7b9"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="aae2ab76-2e85-466f-9832-8d59b65f76ba"/>
+            </node>
+            <node id="Module">
               <attribute id="UUID" type="FixedString" value="9d06e14b-94b2-4f2a-bccf-c71a0e345221"/>
             </node>
             <node id="Module">
@@ -176,12 +188,6 @@
             </node>
             <node id="Module">
               <attribute id="UUID" type="FixedString" value="74251e53-7504-4d9b-991d-b5a6da7ed7f5"/>
-            </node>
-            <node id="Module">
-              <attribute id="UUID" type="FixedString" value="20889478-26d7-4f43-b9d5-485e7d57dc96"/>
-            </node>
-            <node id="Module">
-              <attribute id="UUID" type="FixedString" value="53480625-d3e4-4cce-86c8-a8a793eb61d7"/>
             </node>
             <node id="Module">
               <attribute id="UUID" type="FixedString" value="849ffded-873e-4876-a740-fa7d4687065d"/>
@@ -259,9 +265,6 @@
               <attribute id="UUID" type="FixedString" value="e96214be-2240-4d26-8289-e9e31eeaa338"/>
             </node>
             <node id="Module">
-              <attribute id="UUID" type="FixedString" value="909cf2d6-b4e9-413a-9101-7e5e063a3394"/>
-            </node>
-            <node id="Module">
               <attribute id="UUID" type="FixedString" value="75bef507-192e-464d-9e84-ddfc002ef4ca"/>
             </node>
             <node id="Module">
@@ -308,6 +311,15 @@
             </node>
             <node id="Module">
               <attribute id="UUID" type="FixedString" value="e94b7286-ae37-4198-bd12-7ec3496dbc19"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="20889478-26d7-4f43-b9d5-485e7d57dc96"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="53480625-d3e4-4cce-86c8-a8a793eb61d7"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="909cf2d6-b4e9-413a-9101-7e5e063a3394"/>
             </node>
             <node id="Module">
               <attribute id="UUID" type="FixedString" value="7cd9922f-de88-4a0d-a7b3-e6c7fed5e999"/>
@@ -463,6 +475,15 @@
               <attribute id="UUID" type="FixedString" value="8a94d923-8a98-45b3-b4ed-1b42049707cb"/>
             </node>
             <node id="Module">
+              <attribute id="UUID" type="FixedString" value="0793c9f2-71f8-4c5d-a1d4-c3baf7665d7b"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00200000002"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="95bcb61e-0f77-4401-9a78-3952d7f2ff58"/>
+            </node>
+            <node id="Module">
               <attribute id="UUID" type="FixedString" value="b2b7f4e8-5834-4599-892e-b605a9c9a2a1"/>
             </node>
             <node id="Module">
@@ -529,6 +550,9 @@
               <attribute id="UUID" type="FixedString" value="26cc7a9c-f2f5-48ee-b829-f69b9698edb1"/>
             </node>
             <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00500000001"/>
+            </node>
+            <node id="Module">
               <attribute id="UUID" type="FixedString" value="3b060b41-eaf7-4ee5-a68b-2875d7408a88"/>
             </node>
             <node id="Module">
@@ -553,10 +577,16 @@
               <attribute id="UUID" type="FixedString" value="ecc0c754-0911-462e-8983-dcffe56c4d8d"/>
             </node>
             <node id="Module">
+              <attribute id="UUID" type="FixedString" value="562aa89a-6a6a-4278-8cfa-e59f73b2cdac"/>
+            </node>
+            <node id="Module">
               <attribute id="UUID" type="FixedString" value="9df16455-bf62-47ce-b6a6-fa4fa7d62a07"/>
             </node>
             <node id="Module">
               <attribute id="UUID" type="FixedString" value="da317322-2378-4aec-965f-56d1fe9ecede"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-0000-0000-0000-addb00575001"/>
             </node>
             <node id="Module">
               <attribute id="UUID" type="FixedString" value="0a9b9bcc-0b42-4a3f-a8f8-e30a3e881b7e"/>
@@ -610,6 +640,9 @@
               <attribute id="UUID" type="FixedString" value="29bf6371-99fe-4cb0-98e4-97989d8748a8"/>
             </node>
             <node id="Module">
+              <attribute id="UUID" type="FixedString" value="4e7b12d6-f7e7-47c3-ad16-e5732bd43688"/>
+            </node>
+            <node id="Module">
               <attribute id="UUID" type="FixedString" value="2033385e-0de5-4a30-9849-c5e436eb4e89"/>
             </node>
             <node id="Module">
@@ -632,9 +665,6 @@
             </node>
             <node id="Module">
               <attribute id="UUID" type="FixedString" value="275fc6ac-a99c-41b3-91fa-85b9131179c7"/>
-            </node>
-            <node id="Module">
-              <attribute id="UUID" type="FixedString" value="4e7b12d6-f7e7-47c3-ad16-e5732bd43688"/>
             </node>
             <node id="Module">
               <attribute id="UUID" type="FixedString" value="ee2c2648-e86f-408c-b5c5-eae25e5d4961"/>
@@ -664,7 +694,49 @@
               <attribute id="UUID" type="FixedString" value="69b724c2-1e84-44a4-961a-c225c7e319de"/>
             </node>
             <node id="Module">
+              <attribute id="UUID" type="FixedString" value="9bf0dff3-59b9-4cdb-9003-dede17813444"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="e1eb6d1a-5922-4964-bfd7-c971e71e351a"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="9772bb83-087c-405e-bb64-5ea5c3bf49f2"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01200000007"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01200000003"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01200000004"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="db49d2da-6046-4690-8eb7-00372e5fd109"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0200-c01200000002"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0500-c01200000002"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0300-c01200000002"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0400-c01200000002"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0600-c01200000002"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0700-c01200000002"/>
+            </node>
+            <node id="Module">
               <attribute id="UUID" type="FixedString" value="8203f373-9e8c-4797-b791-c474fa536fef"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01300000001"/>
             </node>
             <node id="Module">
               <attribute id="UUID" type="FixedString" value="84650f02-478e-42b9-9ffc-76c1515eb583"/>
@@ -1106,6 +1178,12 @@
             </node>
             <node id="Module">
               <attribute id="UUID" type="FixedString" value="2de613b6-cd67-45cb-bea9-9e2523945167"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="01b76319-534d-4f62-a978-b95c95bc1e5b"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="efbc3d6d-35f7-4abf-ab39-786eddbc46ca"/>
             </node>
             <node id="Module">
               <attribute id="UUID" type="FixedString" value="2e4c6be9-8e78-41ea-8c3f-79488779f6db"/>
@@ -1823,6 +1901,34 @@
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="HeavyArmorMoveSpeed_SE"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="HeavyArmorMoveSpeed_SE"/>
+              <attribute id="UUID" type="FixedString" value="b91c94d2-43a6-4764-9518-3fe63cf55b95"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_StarryWisp_Glitter"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA8 Cantrip Starry Wisp - Glitterbomb"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-5a0100000002"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="UA8_TrueStrike"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="UA8_TrueStrike"/>
+              <attribute id="UUID" type="FixedString" value="25d1ef57-6ca4-4be4-95a4-1d3b1b7bc7b9"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="Vicious Mockery OneDnD UA6"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="Vicious Mockery OneDnD UA6"/>
+              <attribute id="UUID" type="FixedString" value="aae2ab76-2e85-466f-9832-8d59b65f76ba"/>
+              <attribute id="Version" type="int32" value="2"/>
+            </node>
+            <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="Plus Divisions - Crafting"/>
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="--------------------------->             Crafting"/>
@@ -1932,20 +2038,6 @@
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="Faun-tastic Fashion - Outfits and Accessories for Satyrs"/>
               <attribute id="UUID" type="FixedString" value="74251e53-7504-4d9b-991d-b5a6da7ed7f5"/>
-              <attribute id="Version" type="int32" value="1"/>
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="CRS_FaerunColors"/>
-              <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="FaerunColors"/>
-              <attribute id="UUID" type="FixedString" value="20889478-26d7-4f43-b9d5-485e7d57dc96"/>
-              <attribute id="Version" type="int32" value="1"/>
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="AethersBlackDye"/>
-              <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="Aether's Black Dye"/>
-              <attribute id="UUID" type="FixedString" value="53480625-d3e4-4cce-86c8-a8a793eb61d7"/>
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
@@ -2124,13 +2216,6 @@
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="AS_ExtraDyes"/>
-              <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="AS_ExtraDyes"/>
-              <attribute id="UUID" type="FixedString" value="909cf2d6-b4e9-413a-9101-7e5e063a3394"/>
-              <attribute id="Version" type="int32" value="268435456"/>
-            </node>
-            <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="BackPacks"/>
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="BackPacks"/>
@@ -2241,6 +2326,27 @@
               <attribute id="Name" type="FixedString" value="--------------------------->             Dyes"/>
               <attribute id="UUID" type="FixedString" value="e94b7286-ae37-4198-bd12-7ec3496dbc19"/>
               <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="CRS_FaerunColors"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="FaerunColors"/>
+              <attribute id="UUID" type="FixedString" value="20889478-26d7-4f43-b9d5-485e7d57dc96"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="AethersBlackDye"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="Aether's Black Dye"/>
+              <attribute id="UUID" type="FixedString" value="53480625-d3e4-4cce-86c8-a8a793eb61d7"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="AS_ExtraDyes"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="AS_ExtraDyes"/>
+              <attribute id="UUID" type="FixedString" value="909cf2d6-b4e9-413a-9101-7e5e063a3394"/>
+              <attribute id="Version" type="int32" value="268435456"/>
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="Plus Separators - Deities"/>
@@ -2600,6 +2706,27 @@
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD Relentless Rage"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA5 Barbarian Relentless Rage"/>
+              <attribute id="UUID" type="FixedString" value="0793c9f2-71f8-4c5d-a1d4-c3baf7665d7b"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_ShortRestRageRecovery"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA8 Barbarian Short Rest Rage Recovery"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00200000002"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="Instinctive Pounce"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="Instinctive Pounce"/>
+              <attribute id="UUID" type="FixedString" value="95bcb61e-0f77-4401-9a78-3952d7f2ff58"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="Plus Divisions - Bard"/>
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="--------------------------->             Bard"/>
@@ -2754,6 +2881,13 @@
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_Druid"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD Druid"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c00500000001"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="Plus Divisions - Fighter"/>
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="--------------------------->             Fighter"/>
@@ -2810,6 +2944,13 @@
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_Fighter"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD_Fighter"/>
+              <attribute id="UUID" type="FixedString" value="562aa89a-6a6a-4278-8cfa-e59f73b2cdac"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="Plus Divisions - Monk"/>
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="--------------------------->             Monk"/>
@@ -2821,6 +2962,13 @@
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="LongDeath5e"/>
               <attribute id="UUID" type="FixedString" value="da317322-2378-4aec-965f-56d1fe9ecede"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="CLCF-Example-Boosts"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="Monk OneDnD UA8 Weapon Prof"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-0000-0000-0000-addb00575001"/>
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
@@ -2943,6 +3091,13 @@
               <attribute id="Version" type="int32" value="3"/>
             </node>
             <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="DeathSoul"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="Death Soul"/>
+              <attribute id="UUID" type="FixedString" value="4e7b12d6-f7e7-47c3-ad16-e5732bd43688"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="SorcererDivineSoul"/>
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="Sorcerer: Divine Soul"/>
@@ -2996,13 +3151,6 @@
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="ChronurgyMagic5eSpells"/>
               <attribute id="UUID" type="FixedString" value="275fc6ac-a99c-41b3-91fa-85b9131179c7"/>
-              <attribute id="Version" type="int32" value="1"/>
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="DeathSoul"/>
-              <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="Death Soul"/>
-              <attribute id="UUID" type="FixedString" value="4e7b12d6-f7e7-47c3-ad16-e5732bd43688"/>
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
@@ -3069,10 +3217,108 @@
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="CelestialWarlock"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="CelestialWarlock"/>
+              <attribute id="UUID" type="FixedString" value="9bf0dff3-59b9-4cdb-9003-dede17813444"/>
+              <attribute id="Version" type="int32" value="36591746972385280"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="Hexblade"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="Hexblade"/>
+              <attribute id="UUID" type="FixedString" value="e1eb6d1a-5922-4964-bfd7-c971e71e351a"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="HexbladeInvocations"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="HexbladeInvocations"/>
+              <attribute id="UUID" type="FixedString" value="9772bb83-087c-405e-bb64-5ea5c3bf49f2"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_WarlockSpellListAdditions"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD Warlock - Spell List Additions"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01200000007"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_MagicalCunning"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA7 Warlock Magical Cunning"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01200000003"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_PactInvocations"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA7 Warlock Pact Invocations"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01200000004"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_PactBlade"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA7 Warlock Pact of the Blade"/>
+              <attribute id="UUID" type="FixedString" value="db49d2da-6046-4690-8eb7-00372e5fd109"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_PatronSpells_Archfey"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA7 Warlock Patron Spells - Archfey"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0200-c01200000002"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_PatronSpells_Celestial"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA7 Warlock Patron Spells - Celestial"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0500-c01200000002"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_PatronSpells_Fiend"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA7 Warlock Patron Spells - Fiend"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0300-c01200000002"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_PatronSpells_GreatOldOne"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA7 Warlock Patron Spells - GreatOldOne"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0400-c01200000002"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_PatronSpells_Hexblade"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA7 Warlock Patron Spells - Hexblade"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0600-c01200000002"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_PatronSpells_Undead_CyberSpektre"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD UA7 Warlock Patron Spells - Undead CyberSpektre"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0700-c01200000002"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="Plus Divisions - Wizard"/>
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="--------------------------->             Wizard"/>
               <attribute id="UUID" type="FixedString" value="8203f373-9e8c-4797-b791-c474fa536fef"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="OneDnD_Wizard"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="OneDnD Wizard"/>
+              <attribute id="UUID" type="FixedString" value="c1cfc0d3-1dad-0000-0000-c01300000001"/>
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
@@ -4103,6 +4349,20 @@
               <attribute id="Name" type="FixedString" value="Additional Backgrounds FR"/>
               <attribute id="UUID" type="FixedString" value="2de613b6-cd67-45cb-bea9-9e2523945167"/>
               <attribute id="Version" type="int32" value="36451013778997248"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="CelestialWarlock_FR"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="CelestialWarlock_FR"/>
+              <attribute id="UUID" type="FixedString" value="01b76319-534d-4f62-a978-b95c95bc1e5b"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="Hexblade subclass FR"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="Hexblade subclass FR"/>
+              <attribute id="UUID" type="FixedString" value="efbc3d6d-35f7-4abf-ab39-786eddbc46ca"/>
+              <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="Elemental_Spells_SHV"/>
