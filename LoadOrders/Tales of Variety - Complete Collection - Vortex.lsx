@@ -5779,11 +5779,11 @@
               <attribute id="Version" type="int32" value="2"/>
             </node>
             <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="Knowledge Domain Enhanced"/>
+              <attribute id="Folder" type="LSWString" value="Knowledge Domain Enhanced - Warlock"/>
               <attribute id="MD5" type="LSString" value=""/>
-              <attribute id="Name" type="FixedString" value="Knowledge Domain Enhanced"/>
+              <attribute id="Name" type="FixedString" value="Knowledge Domain Enhanced - Warlock"/>
               <attribute id="UUID" type="FixedString" value="47697342-bf42-4316-b188-d05811298854"/>
-              <attribute id="Version" type="int32" value="6"/>
+              <attribute id="Version" type="int32" value="7"/>
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="War Domain Enhanced"/>
