@@ -1012,6 +1012,12 @@
               <attribute id="UUID" type="FixedString" value="959a0f48-3d3b-4c2d-b305-e5c4c166bacb"/>
             </node>
             <node id="Module">
+              <attribute id="UUID" type="FixedString" value="1075ced3-75e6-48a6-9eb7-26beac419b4b"/>
+            </node>
+            <node id="Module">
+              <attribute id="UUID" type="FixedString" value="166d0c5f-bab8-4207-8d89-c7533a0cf20d"/>
+            </node>
+            <node id="Module">
               <attribute id="UUID" type="FixedString" value="17742f50-4fb0-405d-849f-490689ef540c"/>
             </node>
             <node id="Module">
@@ -1976,7 +1982,7 @@
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="Expansion"/>
               <attribute id="UUID" type="FixedString" value="a2c4b0fc-e745-41df-81b7-fa53950d86a0"/>
-              <attribute id="Version" type="int32" value="36169534507319299"/>
+              <attribute id="Version" type="int32" value="36169534507319300"/>
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="VolitionCabinet"/>
@@ -3859,7 +3865,7 @@
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="Favored Soul"/>
               <attribute id="UUID" type="FixedString" value="7f7cdf16-30e7-4e84-b2c0-3b8d62cf90f5"/>
-              <attribute id="Version" type="int32" value="1"/>
+              <attribute id="Version" type="int32" value="3"/>
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="Asgorath_Chaos_Sorcerer_SHV"/>
@@ -4282,10 +4288,24 @@
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">
-              <attribute id="Folder" type="LSWString" value="AkELkA_DGB_Assets_pact2"/>
+              <attribute id="Folder" type="LSWString" value="CrystalCrown"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="Crystal Crown"/>
+              <attribute id="UUID" type="FixedString" value="959a0f48-3d3b-4c2d-b305-e5c4c166bacb"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="CrystalCrown_DMH"/>
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="Crystal Crown DMH"/>
-              <attribute id="UUID" type="FixedString" value="959a0f48-3d3b-4c2d-b305-e5c4c166bacb"/>
+              <attribute id="UUID" type="FixedString" value="1075ced3-75e6-48a6-9eb7-26beac419b4b"/>
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="CrystalCrown_Rathgor"/>
+              <attribute id="MD5" type="LSString" value=""/>
+              <attribute id="Name" type="FixedString" value="Crystal Crown Rathgor"/>
+              <attribute id="UUID" type="FixedString" value="166d0c5f-bab8-4207-8d89-c7533a0cf20d"/>
               <attribute id="Version" type="int32" value="1"/>
             </node>
             <node id="ModuleShortDesc">

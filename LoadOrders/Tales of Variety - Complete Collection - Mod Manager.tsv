@@ -333,270 +333,272 @@ Index	Name	Author	FileName	Tags	Dependencies	URL
 331	Hearts Heads - Fey Eladrin Patch	HeartsWires	HW_HeartsHeads_EladrinPatch_67b07d1a-3013-4238-b3c8-1473188c337c.pak			
 332	Hearts Heads - HotF - Dryad Patch	HeartsWires	HW_HeartsHeads_DryadPatch_00429a7c-aaca-454a-93bc-61bd1668cf6a.pak			
 333	Hearts Heads - WotD - Aasimar Patch	HeartsWires	HW_HeartsHeads_AasimarPatch_4aa08d95-a003-430f-b199-b7fc829361e7.pak			
-334	Crystal Crown DMH	AkELkA	AkELkA_DGB_Assets_pact2_959a0f48-3d3b-4c2d-b305-e5c4c166bacb.pak			
-335	--------------------------->             Hair	Echelon  Raizan	Plus Divisions - Hair_17742f50-4fb0-405d-849f-490689ef540c.pak	Category, Division, Plus		
-336	Hairstyles of Faerun	Aloija	HSoF_e8766cb7-3791-4fd9-ba47-1ff7880082d8.pak			
-337	CBR_Simple_Hair	Cerberry	CBR_Simple_Hair_704b3a57-6159-4bf9-95ba-dfd53986d562.pak			
-338	Toarie's Autosnap Hairpack	Toarie	AutoSnapPack_dfdb69c0-23ed-46a7-83bb-39fbbb84308c.pak			
-339	Tasha's Cauldron of Hairstyles	TashaWeeds	Tasha's_Hairs_22a5106e-1ca0-4fd4-8814-18fad02e8d44.pak			
-340	Tasha's Cauldron of Hairstyles Pack 2	TashaWeeds	Tasha's_Hairs_2_1ccb0216-5a79-4ce6-85e0-a144fc105b9f.pak			
-341	Tav's Hair Salon - Tav's Hairpack	Toarie	DFHairPack_da0b99ca-4406-49c1-bef9-3a08621280a2.pak			
-342	Kay's Hair Extensions	perseidipity	KayHairExtensions_0071c9ed-88b6-4c78-8adb-112593d08c1a.pak			
-343	TepkunsetHairCollection	tepkunset	TepkunsetHairCollection_a34a1b2d-bcaa-44e0-885a-6087ccf92357.pak			
-344	Em_Custom_Hair_Pack_One	EmeraldTechno	Em_Custom_Hair_Pack_One_875aa573-7b01-4dcc-822f-349968e57b4b.pak			
-345	Em_Custom_Hair_Pack_Two	EmeraldTechno	Em_Custom_Hair_Pack_Two_d7678546-2393-433d-a3b4-256bfbbfdc78.pak			
-346	Em's Dreads and Braids Hair	EmeraldTechno	Em_Dreads_and_Braids_90417f85-6d95-413f-9679-61acebeaf143.pak			
-347	KS HAIR Edits Pack	keysuspect	Hair_Edits_f14dec1b-620b-465c-8034-54db520da4cc.pak			
-348	Vemperen's Other Heads	Dufresne12, vemperen, Kartoffel	vemperens_heads_ef0fb0e3-a4e1-4672-84b3-bc63260e12af.pak			
-349	Vessnelle_Hair1	Vessnelle	Vessnelle_Hair1_54ebec6c-00ce-48e1-8b75-53b6b72ecc3a.pak			
-350	Vessnelle_Hair2	Vessnelle	Vessnelle_Hair2_d357aca8-e222-4c09-8b49-54354405502e.pak			
-351	Vessnelle_Hair3	Vessnelle	Vessnelle_Hair3_fb9c340a-771a-46e8-bc7c-0d40b80c1885.pak			
-352	Vessnelle_Hair4	Vessnelle	Vessnelle_Hair4_7661f2db-28a1-44d0-a52a-9485cf9019eb.pak			
-353	--------------------------->             Horns	Echelon  Raizan	Plus Divisions - Horns_5dba574b-c7af-4afd-89e6-a93457fb9f05.pak	Category, Division, Plus		
-354	Kylin's Horns	kylin3	Kylin_Horns_a952bb44-2cb5-4e6a-ad7b-b431a2249129.pak			
-355	Hornology	lumad11	lumad11_Hornology_85b7d472-e341-473a-a953-aeced8141b41.pak			
-356	Horns of Plenty	lumad11	lumad11_Horns_of_Plenty_b4f41d44-d7a2-44bd-818e-fcb1cb0ebe0e.pak			
-357	PseudoKociaras' Horns	PseudoKociara	PseudoKociaras'_Horns_c1d7f569-acb3-4c91-8f67-c1e778bfdf62.pak			
-358	Horns of Faerûn	Aloija	Aloija_New_Horns_192f57e4-a961-47be-ab94-e70042f9d211.pak			
-359	Horns of Faerun Modded Races Patch	Padme4000	horns_of_faerun_patch_cfed36c5-82d2-41c3-a287-f679e96b4ca0.pak			
-360	Half Tief Modded Races Tails Patch	Padme4000	Half-Tiefs_Tail_Patch_f9f73d62-60f8-45c5-b6d0-48abd0c880d6.pak			
-361	Ghouls Customization Compendium	Ghouls0Rules	Ghouls_Custom_Heads_0ca0abef-f30a-40de-b8ef-e21a5868c498.pak			
-362	Half-Tiefs - Flora and Fauna (Custom Horn Pack)	labotor	TieflingHybrids_FF_69919c1f-7e1c-4abc-807c-40e0b747e36d.pak			
-363	--------------------------->             Hair Colours	Echelon  Raizan	Plus Divisions - Hair Colours_5d29dd44-d70a-4cdf-8c9d-a59561495309.pak	Category, Division, Plus		
-364	P4 Bangs Bangs Everywhere	Padme4000	p4_fringes_80fb12aa-1d82-4df4-af42-7beae9250fb2.pak			
-365	ASTRL Haircolor Overhaul	Astralities	ASTRLhairoverhaul_0ea2fbb8-6d23-4910-9a3b-a20fbd555240.pak			
-366	ASTRL Hair Color Collection	Astralities	ASTRLhaircolorsv2_7a741e61-cf7c-46cc-b1b5-b67fbefd2ff4.pak			
-367	ASTRL Hair Color Supplement	Astralities	ASTRLhaircolors_525600ac-ca07-4745-a5bc-0a620975e2f3.pak			
-368	more_dreads_n_curls_hairstyles	Bububull	Afro_hair_A_52ee7123-bbe3-4f8a-bd62-04327b406cab.pak			
-369	more Dreads and curly hairpack 02	Bububull	dreads_n_curls_pack02_67c540ea-c73d-4b55-b70f-6151f1f09aa0.pak			
-370	Silver's Hair Pack	Silver	Silver_HairPack_1fd44eaf-a4d2-4de4-9560-51a0c8a63987.pak			
-371	Silver's Hair Pack 2	Silver	Silver_HairPack2_c56e4b79-3bf3-446b-b06b-27dc86337663.pak			
-372	Long Flowery Hair	EmeraldTechno	Em_RLong_Hair_ba6b1dc2-0bbc-413f-bd07-1ba808a77ab9.pak			
-373	Short Flowery Hair	EmeraldTechno	Em_Short_Flowery_Hair_e550e525-99ad-4184-944d-d804f19e3743.pak			
-374	--------------------------->             Skin Colours	Echelon  Raizan	Plus Divisions - Skin Colours_3dcead64-75b8-46ac-a5c9-855fd9aad357.pak	Category, Division, Plus		
-375	ASTRL Draconic Sorcerer Scale Colors	Astralities	ASTRL_DraconicSorcererScales_f97666c7-f4d0-4f97-b772-1e8ad643b7f7.pak			
-376	Serpentine Modifications	serpentine_sage	SerpentineModifications_34efd747-28d2-43cc-834d-15132ea9aeda.pak			
-377	ASTRL Natural Skintones	Astralities	ASTRLnaturalskintones_af7f742c-c484-441e-8d06-eda735233068.pak			
-378	ASTRL Sublime Skintones	Astralities	ASTRLsublimeskintones_da0e8d69-535c-4218-a42f-118c377184ca.pak			
-379	ASTRL Fantasy Skintones	Astralities	ASTRLfantasyskintones_78537082-46a0-42c7-a718-d2dc9950cfdd.pak			
-380	ASTRL Wondrous Skintones	Astralities	ASTRLwondrouskintones_31a373b2-5943-4a22-8aa5-410ca33792a5.pak			
-381	--------------------------->             Eye Colours	Echelon  Raizan	Plus Divisions - Eye Colours_8dd2f784-354b-47c4-9316-01f1a84575c5.pak	Category, Division, Plus		
-382	ASTRL Feywild Eyes	Astralities	ASTRLfeywildeyes_e6eb4b0f-a921-4632-b324-05c0619fcdc1.pak			
-383	ASTRL Understated Eyes	Astralities	ASTRL_UnderstatedEyes_04d882a5-a1c8-4527-8772-3973d6b11aa5.pak			
-384	--------------------------->             Accesories	Echelon  Raizan	Plus Divisions - Accesories_81cca0ce-a866-4731-8da2-486f3a2ce52d.pak	Category, Division, Plus		
-385	Leyline Leila's Loops And Swirls Piercings Mod	LeylineLeila	Leyline_Leilas_Loops_And_Swirls_d6b694b8-160f-478e-9714-afd6507e6e26.pak			
-386	Kylin's Piercings	kylin3	Kylin_Piercings_ec1b65ea-36e9-4469-b01c-07b346a36500.pak			
-387	Ghouls Custom Piercings	Ghouls0Rules	Ghouls_Custom_Piercings_49f60f92-cde9-4621-aeae-7a5c9d412c03.pak			
-388	Trips' Accessories	Discord: _trips_	Trips_Lip_Piercing_0ab9e889-3e9a-4f71-be60-ce33aedbeae7.pak			
-389	More beards	bububull	more_beards_4d0c2a4c-d9e7-424b-970f-889f887fbfe3.pak			
-390	---------------------------|            Miscellaneous            |---------------------------	Echelon  Raizan	Plus Separators - Miscellaneous_9d5a2903-9cf2-4eb9-b04d-87b7a79dd522.pak	Category, Plus, Separator		
-391	---------------------------|               Cheats                |---------------------------	Echelon  Raizan	Plus Separators - Cheats_ff60bde3-c42c-46b5-9fb6-74617b1f79a1.pak	Category, Plus, Separator		
-392	FamilyLegacy	Codey Hanson	FamilyLegacy_12d4fdc5-0b13-460f-91c5-beaac4ab9e86.pak			
-393	Reliable Rolls - A	MaskedRPGFan	Reliable Rolls_55a7babf-1b39-4656-8fc1-650b4879a10b.pak	Passives, Rolls		
-394	Ring Of Gods	Palmaman33	RingOfGods_c53a183b-10c0-4bcf-ab4d-296f60ca972d.pak			
-395	Sword Of Gods	Palmaman33	SwordOfGods_46b38455-1799-45fb-9d5c-dfb2667874e7.pak			
-396	Sword Of Gods - One Handed	Palmaman33	SwordOfGods_onehanded_e241dad4-8d72-4f4b-9b88-f2a077c6f60e.pak			
-397	---------------------------|            Translations             |---------------------------	Echelon  Raizan	Plus Separators - Translations_25b57078-0b51-4514-a8a1-7801ca014c71.pak	Category, Plus, Separator		
-398	FamilyLegacy_FR	Solmyr	FamilyLegacy_FR_c8b3bbc9-c449-4ede-a0f0-5d96b29257c8.pak			
-399	5e Spells FR	Fenrules Ballzeh Thraximundar2772	5e Spells FR_4f1f9650-c6aa-43d6-8b14-b19b3951f3d1.pak	Translation		
-400	AberrantMind_FR	BG3 Mod Translator	AberrantMind_FR_ad32003c-631f-4557-9f5c-288777f87990.pak			
-401	AbsoluteWrath_FR	BG3 Mod Translator	AbsoluteWrath_FR_ca0b1dd8-1aeb-49d7-a124-4918b65e972f.pak			
-402	Additional Backgrounds FR	Fenrules / Thraximundar2772	Additional Backgrounds FR_2de613b6-cd67-45cb-bea9-9e2523945167.pak			
-403	Additional Encounters FR	Valgunn	Additional Encounters FR_4533c6b7-6a5a-4cbe-8135-c7d676c42bc9.pak	Translation		
-404	Aether's Black Dye FR	Anklem	Aether's Black Dye FR_45cfccfc-f236-479d-bdc0-d78f846dc53a.pak	Translation		
-405	Ambition Domain FR	Thraximundar2772	Ambition Domain_12c1ceef-cedb-4083-9c3d-4532c93c8ecf.pak	Translation		
-406	Ancient Jewelry Roleplay FR	Valgunn	Ancient Jewelry Roleplay FR_1a3967a5-62fc-49f1-905f-37e19359cadf.pak	Translation		
-407	Ancient Weaponry Roleplay FR	Valgunn	Ancient Weaponry Roleplay FR_9d85b81e-e04a-476f-8cb3-97da5884d623.pak	Translation		
-408	Appearance Edit Enhanced FR	Anklem	Appearance Edit Enhanced FR_657b1217-9ac1-4dbb-9f20-9e7db69f57fe.pak	Translation		
-409	ArcaneArcher5e FR	Sewayn Thraximundar2772	ArcaneArcher5e FR_eed8704f-f7e2-4812-8124-ee36b2f5d1ab.pak	Translation		
-410	Artificer class FR	Ballzeh Thraximundar2772	Artificer class FR_b50aa856-9ab5-4a4b-a57a-6d472f91f074.pak	Translation		
-411	AS_ExtraDyes_Bundle_FR	Anklem	Extra dyes FR_7e09e85f-1477-4f60-90d1-771ca094c38e.pak	Translation		
-412	Asgorath Chaos Sorcerer FR	Thraximundar2772	Asgorath Chaos Sorcerer FR_723a7b9d-43de-4453-a28a-b2525dd18dba.pak	Translation		
-413	Astarion's Gear FR	Anklem	Astarions Gear FR_21fc2e49-36ed-4d0d-a642-6326e00610c2.pak	Translation		
-414	AstralSelf5e -FR	Valgunn	AstralSelf5e -FR_cb02a864-b452-453d-8ccf-8fa972f6c714.pak	Translate		
-415	BackPacks FR	kusanagi942	BackPacks FR_46a5c507-257e-4bed-b63a-8d2aec45e1b8.pak			
-416	Bags of Sorting FR	Valgunn	Bags of Sorting FR_02088b1d-feef-46e0-a271-4e97dfe9041e.pak	Translation		
-417	BagsBagsBagsReforgedFR	Friipside	BagsBagsBagsReforgedFR_b70e2f3a-8900-4331-ab69-9a044e1e072b.pak			
-418	Banneret5e -FR	Valgunn	Banneret5e -FR_fea758e3-f352-43fd-89fd-d9307991433b.pak	Translate		
-419	BB26DragonbornSubraceExpansion(Fizbans) FR	kusanagi942	BB26DragonbornSubraceExpansion(Fizbans) FR_873ee25d-ef55-43a6-9363-60157c05b1cb.pak			
-420	Best Friend FR	Thraximundar2772	Best Friend FR_c0e4abb0-e689-4a03-be05-c9d50fbcf8a4.pak	Translation		
-421	Blood Hunter FR	Sewayn Thraximundar2772	Blood Hunter FR_21049d33-a89f-4937-a682-de7c7fc8f9ec.pak	Translation		
-422	Blood Hunter Profane Soul FR	Sewayn Thraximundar2772	Blood Hunter Profane Soul FR_ffedbc2b-39eb-4ee5-974e-b8de706ae51f.pak	Translation		
-423	Bloodletter FR	Sewayn	Bloodletter FR_b5d378c3-8559-4953-9b9e-45f2a51e9686.pak	Translate		
-424	Cambion Race FR	Thraximundar2772	Cambion Race FR_54dd98db-1129-4963-b639-b3d69934368a.pak	Translation		
-425	CBR_Battlemage FR	Anklem	Battlemage Armor FR_1f66937d-c6ad-49c7-8412-2be1e0e64c4f.pak	Translation		
-426	CBR_Kisses FR	Anklem	Kisses FR_7336878b-a21f-4b03-9526-428650ca8960.pak	Translation		
-427	CBR_Pirates_Rebels FR	Anklem	Pirates and Rebels FR_d6eb2cd3-594a-404f-a33d-7a6e35c7eef5.pak	Translation		
-428	Changeling FR	Fenrules / Thraximundar2772	Changeling FR_7abb945d-d542-440c-af51-b50251ef1af7.pak			
-429	Circle of Dreams FR	Ballzeh	Circle of Dreams FR_a3cfcc21-ca84-4058-807e-00677ea7470b.pak	Translation		
-430	Circle of Spores Enhanced FR	kusanagi942 / Thraximundar2772	CircleofSporesEnhanced FR_b6f0701d-0c6d-4294-ba82-d15842fbcf27.pak			
-431	Circle of Stars FR	Ballzeh	Circle of Stars FR_26976f74-e9f3-412e-875a-2a1f6b7bfac5.pak	Translation		
-432	Circle of Stormchasers FR	Sewayn	Circle of Stormchasers FR_db0e2bd1-b7f7-45a0-bf61-8a3fed5e4857.pak	Translation		
-433	Circle of Wildfire FR	Ballzeh	Circle of Wildfire FR_4335e215-4f14-4997-b0f0-cf5f028c78bb.pak	Translation		
-434	Playable Firbolgs FR	Thraximundar2772	Playable Firbolgs FR_e9474884-d0eb-4f89-88a2-a058a3137b32.pak	Translation		
-435	CircleOfTheSea_FR	BG3 Mod Translator	CircleOfTheSea_FR_99c37d2a-354a-48ff-affd-ad37c7b16644.pak			
-436	Clerics_TrueFR	Ballzeh	Clerics_TrueFR_6a63300f-a1b1-4264-8af1-bf78a8f78320.pak			
-437	CloaksOfFaerunFr	Fenrules	CloaksOfFaerunFr_26b261f3-2c24-4495-b50a-27a761f3076e.pak	Translate		
-438	Clockwork Soul FR	Thraximundar2772	Clockwork Soul FR_8b647df7-f2d6-4e7f-bf09-c48499e6cc2e.pak	Translation		
-439	Coffers of Forlorn Treasures FR	Thraximundar2772	Coffers of Forlorn Treasures FR_42bbbabc-1924-44a3-bc7e-c49d34e5fdef.pak	Translation		
-440	College of Spirit FR	Ballzeh / Thraximundar2772	College of Spirit FR_ab0e7157-5631-4cae-980f-070dd2517579.pak	Translation		
-441	College of Valour Enhanced FR	Thraximundar2772	College of Valour Enhanced_d69c7da8-1f6b-423b-ad15-5f4048d18efa.pak	Translation		
-442	Community Library FR	BG3 Community / Thraximundar2772	Community Library FR_2fa8f884-153a-45dd-8475-9aa663da8339.pak	CMTY, Library, Translation		
-443	Crafting Framework FR	Ballzeh	Crafting Framework FR_7756c7f6-19c0-4f92-b4d3-53c1a4ef6054.pak			
-444	Crowns of Nature FR	Anklem	Crowns of Nature FR_d7286874-d48c-40cf-8c39-c8920cae0bea.pak	Translation		
-445	DarkRanger_FR	BG3 Mod Translator	DarkRanger_FR_1af53c8e-f690-44c7-a949-03206baeed6b.pak			
-446	Death Soul FR	Sewayn thraximundar2772	Death Soul FR_af433157-5c6c-4b0a-bdab-64bb74efb37b.pak	Translation		
-447	DEchoKnight -FR	Valgunn	DEchoKnight -FR_7cf23631-3e50-43e9-8acf-23303a5861b2.pak			
-448	Divine Soul (Revised) FR	Fenrules	Divine Soul (Revised) FR_d66ec291-2882-465e-b397-fc6df40c8216.pak	Translation		
-449	DLCEnhanced FR	kusanagi942	DLCEnhanced FR_c15d1d7b-dd5d-4eef-b5b4-b684fce74908.pak			
-450	DreadOverlord_French	Keviinn86	DreadOverlord_French_33d2bb9c-5caf-11ee-8c99-0242ac120002.pak			
-451	Drow Weaponry - Rapier FR	Valgunn	Drow Weaponry - Rapier FR_43ec8419-ecdf-4a57-b3db-2abe81042a63.pak	translate		
-452	DrunkardItems FR	kusanagi942	DrunkardItems FR_9af58939-73cb-410d-adba-2ac889684cfb.pak			
-453	Dwarven Weaponry - Drakefire FR	Valgunn	Dwarven Weaponry - Drakefire FR_1cad2a7e-50bb-4b4c-87fe-5d79a6bc15fb.pak	Translate         		
-454	Elemental_Spells_SHV_FR	Thraximundar2772	Elemental_Spells_SHV_2e4c6be9-8e78-41ea-8c3f-79488779f6db.pak	Translation		
-455	Elven Weaponry - Daggers FR	Valgunn	Elven Weaponry - Daggers FR_32727690-293b-4282-a70c-1b6fb8f91d05.pak	Translate		
-456	Elven Weaponry - Glaives FR	Valgunn	Elven Weaponry - Glaives FR_1c43e8fe-56f3-4eee-9b75-b09e0b7da3d2.pak	Translate		
-457	Elven Weaponry - Katanas FR	Valgunn	Elven Weaponry - Katanas FR_bdc78deef-f1f3-4c20-ab0c-cb38a7ac1ee6.pak	Translate		
-458	Elven Weaponry - Longbows FR	Valgunn	Elven Weaponry - Longbows FR_1a4facdd-c81c-43d3-a14b-c9d5ee91b509.pak	translate		
-459	Elven Weaponry - Needle Addon FR	Valgunn	Elven Weaponry - Needle Addon FR_d30994a8-2fcc-4482-b62d-f7ce1fc11c26.pak	Translate		
-460	Elven Weaponry - Paladin FR	Valgunn	Elven Weaponry - Paladin FR_039695d3-5b4d-498b-be46-1fc9c6c00cc1.pak	Translation		
-461	Elven Weaponry - Shortbows FR	Valgunn	Elven Weaponry - Shortbows FR_bb7fc58c-12d2-4251-8217-23a4076ad67d.pak	Translate		
-462	Elven Weaponry - SmithingKit FR	Valgunn	Elven Weaponry - SmithingKit FR_cfe76618-cca7-40e7-9908-e811da73e8ee.pak	Translate		
-463	Elven Weaponry - Spears FR	Valgunn	Elven Weaponry - Spears FR_6bd2e6a3-c548-4714-b4fa-f7dc944eb444.pak	Translate		
-464	Elven Weaponry - TutorialChest FR	valgunn	Elven Weaponry - TutorialChest FR_931888a3-a7b7-4d76-90ff-e1406548a6e3.pak	translate		
-465	Elven Weaponry - Wands FR	Valgunn	Elven Weaponry - Wands FR_436d4921-38e3-47b8-b7a4-471e00ebb108.pak	Translate		
-466	ElvenBladeWeaponry -FR	Valgunn	ElvenBladeWeaponry -FR_d3137994-3110-4add-a93d-c8e9d4ef4c84.pak	translate		
-467	Em_Dryad_Race FR	kusanagi942	Em_Dryad_Race FR_a2b812cd-5924-48c3-bc1d-c47876338f18.pak	Translation		
-468	Expension Level 13-20 FR	Thraximundar2772	Expension Level 13-20 FR_1ae448e8-3fde-4a41-947d-ec915dd170ce.pak	Translation		
-469	Extra Gear FR	Sewayn	PTW_Extra_Gear_FR_cb86efc7-b8c2-442b-9d28-14874533d6f8.pak	Translate		
-470	Faerun Colors FR	Thraximundar2772	Faerun Colors FR_2a5d6109-fbef-4e05-9462-ece19622abb1.pak	Translation		
-471	FathomlessWarlockFR	Mijj	FathomlessWarlockFR_88e5a2a6-7c40-4a35-9e1d-deb0ccb66e11.pak			
-472	Favored Soul FR	Thraximundar2772	Favored Soul FR_ec215270-3d6e-4645-92b6-ef966e8eac2e.pak	Translation		
-473	Fey Eladrin FR	Thraximundar2772	Fey Eladrin FR_5470a2a8-5a3a-4875-85ca-3c8e9cd039c1.pak	Translation		
-474	FizbansTreasuryOfDragons FR	Ballzeh	FizbansTreasuryOfDragons FR_8e0085f5-e93c-4e2d-a4af-f6ed2a413736.pak			
-475	FollowersOfZerthimon_FR	Fenrules	FollowersOfZerthimon_FR_cfaefdb7-0f8c-4ef7-a76a-4a4e444a2c33.pak			
-476	Genasi FR	kusanagi942	Genasi FR_eee08b22-14f2-41c6-ad56-4a770570d534.pak			
-477	Ghastly Ghouls: Playable Undead Race FR	kusanagi942	UndeadRace FR_67628ead-707c-4190-b203-27784326ec50.pak	Translation		
-478	Ghostwise Halfling FR	Syd Meier	Ghostwise Halfling FR_2e52e676-0dd5-43b2-8eb5-fad6bfc17274.pak	Translation		
-479	Glamour Bard FR	Ballzeh	Glamour Bard FR_ca5e0e7b-7522-42db-9513-3bb0ffc52cd1.pak	Translation		
-480	Goblin Race FR	Fenrules	Goblin Race FR_69b1ae2d-fb88-4328-86d0-a0a50a30e7eb.pak			
-481	godsextra_French	Keviinn86	godsextra_French_acd04a28-5a0c-11ee-8c99-0242ac120002.pak			
-482	Grappler Feat FR	Thraximundar2772	Grappler Feat FR_ffb81b42-bcd2-4da3-93a1-59a01d91894d.pak	Translation		
-483	Grappling Framework FR	Ballzeh	Grappling Framework FR_4fa40a0d-84d3-4d71-85dd-acbb611280b5.pak			
-484	Graviturgy Magic FR	Ballzeh	Graviturgy Magic FR_d1163ecc-195c-4294-b27a-0143758ec50c.pak			
-485	Hexblade subclass FR	Ballzeh Thraximundar	Hexblade subclass FR_efbc3d6d-35f7-4abf-ab39-786eddbc46ca.pak	Translation		
-486	HorizonWalker5e FR	Thraximundar2772	HorizonWalker5e_1a7ea1ca-922f-4b0f-8a06-28e9a9b0170c.pak	Translation		
-487	Hugs FR	Anklem	Hugs FR_0fd96fa9-c285-41ce-af1a-884e186aebe6.pak	Translation		
-488	Impactful Backgrounds FR	Thraximundar2772	Impactful Backgrounds_5b3be250-96f5-4ca3-a5c0-b7408bb99ae1.pak	Translation		
-489	Improved Dragonborn Breath Weapon FR	kusanagi942 Thraximundar2772	Improved Dragonborn Breath Weapon FR_b82d41b9-2535-4f9d-83dd-87ede3359c58.pak	Translation		
-490	Inquisition Domain FR	Thraximundar2772	InquisitionDomain FR_39d6e58c-36bf-4e74-9159-f4aec94c6587.pak	Translation		
-491	JWL Discordant Instruments -FR	Valgunn	JWL Discordant Instruments -FR_dae8ce5d-3a2a-4ca4-ac41-5b3d5ddcbc86.pak	Translate		
-492	Legendary Equipment FR	Thraximundar2772	Legendary Equipment FR_c998546a-15da-4cd0-8276-b5fe61ae5b3d.pak	Translation		
-493	LegendaryItems -FR	Ballzeh	LegendaryItems -FR_78b27ebc-16f0-4f56-a7f4-0b3ff873c129.pak	Translate		
-494	Long Death FR	Thraximundar2772	Long Death FR_f7f4c5fe-12de-4e3f-ab7e-9d15b0bf73f7.pak	Translation		
-495	Lunar Sorcery FR	Thraximundar2772	Lunar Sorcery FR_11474f48-bff1-4b0b-83df-bc160b450731.pak	Translation		
-496	Magus class FR	Sewayn	Magus class FR_74211bd1-70ee-48f2-ae64-1102e1f8ce97.pak	Translation		
-497	Monk Subclass - Way of Mercy_FR	Ballzeh	Monk Subclass - Way of Mercy_FR_27f9855c-71a9-43da-a875-457b5d689346.pak			
-498	Monster Slayer FR	Thraximundar2772	Monster Slayer FR_25c124b9-d1e8-4cab-a937-e10181bd28ac.pak	Translation		
-499	More Mage Gear FR	Anklem	More Mage Gear - FR_0f68ced7-d980-493f-865d-84f0adc4e52.pak	Translation		
-500	Oath of Conquest FR	Ballzeh / Thraximundar2772	Oath of Conquest FR_141b8809-3604-4349-9a3a-4e9f4af17ed0.pak	Translation		
-501	Oath of Glory FR	Ballzeh	Oath of Glory FR_afc36d44-4a1b-4259-929f-c00b541ff445.pak	Translation		
-502	Oath of Redemption FR	Sinistr	OathofRedemption FR_3b174707-bedb-498a-83a3-89c40d88f0db.pak			
-503	Oath of the Phoenix FR	Sewayn Thraximundar2772	Oath of the Phoenix FR_4367bb03-bee8-4518-8ac5-8cd9961a0a9d.pak	Translation		
-504	Oath of the Watchers FR	kusanagi942	Oath of the Watchers FR_84a9d4e2-a54d-4fdd-8f3f-e6f27b466b87.pak	Translation		
-505	Olympian_Weapons of Olympus FR	Valgunn	Weapons of Olympus FR_4f413292-932d-40a8-a257-442260ec2225.pak	Translation		
-506	Owlin Race FR	Thraximundar2772	Owlin Race FR_04e72094-59e5-4ed8-bd40-8e269fa18a47.pak	Translation		
-507	Path of the Battlerager FR	Thraximundar2772	Path of the Battlerager FR_59973217-c4e9-4d40-b7e1-4c612425a9ae.pak	Translate		
-508	Path of the Beast FR	Thraximundar2772	Path of the Beast FR_7101c16e-c786-4ea4-88d9-cfeeb09e70f1.pak	Translation		
-509	Path of the Giant FR	Ballzeh / Thraximundar2772	Path of the Giant FR_18f1b6ea-9385-4510-83c0-5b2b39368ccd.pak	Translation		
-510	Path of the Primal Sentry FR	Thraximundar2772	Path of the Primal Sentry FR_51978529-ed35-4a90-82ac-e291685acb7e.pak	Translate		
-511	Path of the Zealot FR	Thraximundar2772	Path of the Zealot FR_e2146dac-359c-4dbc-9bee-544a4f050c86.pak	Translate		
-512	PK Clothes FR	Anklem	PK Clothes FR_212d6730-2d92-4bbc-a72b-23d249528bae.pak	Translation		
-513	Playable Fairy Race FR	Thraximundar2772	Playable Fairy Race FR_0c92f153-8451-4e4d-a235-7da629a43c8c.pak	Translation		
-514	Quiver FR	kusanagi942	Quiver FR_e00f4076-0339-4fd3-ab25-3007c0fae8b4.pak			
-515	RingOfMetamorph FR	Anklem	Ring of Metamorph FR_b8b2888a-a56d-4cab-bbe9-ccc3c576cd82.pak	Translation		
-516	Rings of Pantheon FR	kusanagi942	Rings of Pantheon FR_73c5bedc-6e2a-4315-a5a3-e4ccf475b810.pak	Translation		
-517	Rogue Fencer Subclass FR	Sewayn	Rogue Fencer Subclass FR_d96b3cd2-813a-4592-8b40-9a35a23f8e8d.pak			
-518	roguesextra_FR	Ballzeh	roguesextra_FR_3be5399b-a648-4fad-8ff6-328a82dbcd5b.pak			
-519	Rune Knight FR	Thraximundar2772	Rune Knight FR_c69cbf9d-ff78-4d12-97fd-888abfe879cf.pak	Translation		
-520	Samurai5e -FR	Valgunn	Samurai5e -FR_65e32a3d-a665-47f7-893c-31dca2f42b3d.pak	translate		
-521	Satyr Race FR	kusanagi942 Thraximundar2772	Satyr Race FR_226cc41b-9926-437b-ab15-a2dcfdda355b.pak	Translation		
-522	School of Transmutation Enhanced FR	Thraximundar2772	School of Transmutation Enhanced_516ef039-d95d-404f-b937-999a9228afb4.pak	Translation		
-523	Skald FR	Sinistr	Tet42_Skald FR_cea2e02b-940b-4569-874d-1e5f9056a6dd.pak			
-524	Solidarity Domain FR	Thraximundar2772	Solidarity Domain_a20ed088-8aaa-4b4c-84e0-1a2f5c50907b.pak	Translation		
-525	Storm Sorcery Enhanced_FR	BG3 Mod Translator	Storm Sorcery Enhanced_FR_158089d0-014d-45cd-9068-4da8a905fb14.pak			
-526	StormHerald5e FR	kusanagi942	StormHerald5e FR_7605edb4-6d0c-4742-b680-34244f37278e.pak			
-527	Strength Domain FR	Traximundar2772	Strength Domain FR_1cd16873-da25-4bc3-ba4e-c63188d68580.pak	Translation		
-528	Swarmkeeper FR	Sewayn	Swarmkeeper FR_9a96c40f-7ad7-43db-b252-9f4a2ca7224c.pak	Translation		
-529	Syd Kender FR	Thraximundar2772	Syd Kender FR_0b959a9a-ede1-413f-b6bb-8ae36c9dbd7a.pak	Translation		
-530	Tavern Brawler Feat FR	Thraximundar2772	Tavern Brawler Feat FR_7d2d0307-4052-4704-b227-acde7ab113a5.pak	Translation		
-531	The First Vampire FR	Thraximundar2772	The First Vampire FR_59c38018-e25e-4c3c-89d7-bd2663f3dee5.pak	Translate		
-532	Tiefling Compendium FR	kusanagi942 Thraximundar2772	Tiefling Compendium FR_8264c939-1e8b-4258-b252-85eaff67bb5d.pak	Translation		
-533	Transmog Enhanced FR	Ballzeh	Transmog Enhanced FR_1ba7bdad-5bc5-497c-982d-e712a01cc8bd.pak			
-534	Ulitharid - playable Mind Flayer's FR	Valgunn	Ulitharid - playable Mind Flayer's FR_adf07555-3d71-4bee-b56a-7a391237eb03.pak	Translation		
-535	Valkrana's Spellbook FR	Fenrules / Thraximundar2772	Valkrana's Spellbook FR_8c595044-937f-4cd2-8179-ee0aa07c0a5d.pak	Translation		
-536	War Domain Enhanced FR	Thraximundar2772	War Domain Enhanced_388904f7-0abb-4df9-a23a-7905af517fdf.pak	Translation		
-537	Warlock Undead FR	Fenrules thraximundar2772	Warlock Undead FR_5f3bb322-b305-415d-9d07-c49b46ff188a.pak	Translation		
-538	Weapon Training Feat OneDnD UA2 FR	kusanagi942	Weapon Training Feat OneDnD UA2 FR_cc06dc0c-68a1-4bf4-9791-035e2b377561.pak			
-539	Whispers of the Divine - Aasimar Script Extender Edition - Version FR	Ballzeh / Thraximundar2772	Aasimar SEE FR_fa0cf28c-1701-4d8d-a899-19375d03be00.pak	Translation		
-540	Yuanti FR	Thraximundar2772	Yuanti FR_b0b9bdf7-bf1d-4f3b-b7bb-2f5e151c699f.pak	Translation		
-541	Zeal Domain FR	Traximundar2772	Zeal Domain_c2a58503-05b1-4709-b9ae-4f43037c1176.pak	Translation		
-542	--------------------------->             Tweaks	Echelon  Raizan	Plus Divisions - Tweaks_45784200-7911-419f-8bb7-52a4072bcb6c.pak	Category, Division, Plus		
-543	CustomCompanions	adriant1978	CustomCompanions_a6b6aaa8-88bd-11ee-908e-13034502ea2b.pak	Companions		
-544	College of Valour Enhanced	Lumaterian	College of Valour Enhanced_8b1c26ca-d18f-4df3-8094-2c414b522923.pak			
-545	Knowledge Domain Enhanced	Lumaterian	Knowledge Domain Enhanced_47697342-bf42-4316-b188-d05811298854.pak			
-546	War Domain Enhanced	Lumaterian	War Domain Enhanced_916f28a7-e72c-4a84-8d38-9e38fcfb015e.pak			
-547	Circle of Spores Enhanced	Havsglimt	CircleofSporesEnhanced_234262d5-7bf8-4ecf-a0f9-0d5544fb40ed.pak			
-548	Circle of the Land Enhanced	Lumaterian	Circle of the Land Enhanced_943fe63a-161c-4865-9191-3061287ddc23.pak			
-549	Eldritch Knight Enhanced	Lumaterian	Eldritch Knight Enhanced_24de6568-a2bc-4127-a08f-c6f6242b9185.pak			
-550	Arcane Trickster Enhanced	Lumaterian	Arcane Trickster Enhanced_3246dfee-e767-4bcd-b866-b509222696b2.pak			
-551	School of Transmutation Enhanced	Lumaterian	School of Transmutation Enhanced_12a74e1f-b60b-4d65-a132-7089efc2067f.pak			
-552	Storm Sorcery Enhanced	Lumaterian	Storm Sorcery Enhanced_29bf6371-99fe-4cb0-98e4-97989d8748a8.pak			
-553	Starting Equipment PHB	Lumaterian	Starting Equipment PHB_355db5b3-6394-4586-a449-fcca4d719f5b.pak			
-554	SEP Patch - Inquisition Domain	Lumaterian	SEP Patch - Inquisition Domain_68ed5891-9316-4447-8c48-811b10723736.pak			
-555	SEP Patch - Paladin Armor Visuals	Lumaterian	SEP Patch - Paladin Armor Visuals_01d69dc4-a9d2-43e3-8fb1-7758b9fa9792.pak			
-556	SEP Patch - Hexblade	Lumaterian	SEP Patch - Hexblade_c9e61842-41b8-4c3e-958d-32fd9118d0bf.pak			
-557	---------------------------|               Patches               |---------------------------	Echelon  Raizan	Plus Separators - Patches_3ef321fd-1189-4941-87e4-cf646c211d30.pak	Category, Plus, Separator		
-558	DEchoKnight Fix - WotD:Aasimar	wesslen, Trips	DEchoKnightAasimar_1068e5ed-3cd2-4033-b49f-d809c4396f85.pak			
-559	FairyRace CC - Em's Custom Hair Pack 1 + 2 (Patch)	labotor - EmeraldTechno	FairyRaceEmCustomHairPatch_fdbf778d-0780-40c5-89a5-449e34d40e9c.pak			
-560	FairyRace CC - Em's Hair Mashups Pack 1 + 2 + 3 (Patch)	labotor - EmeraldTechno	FairyRaceEmMashupHairPatch_f51f421f-15e0-4d52-9bcc-cf965100394d.pak			
-561	FairyRace CC - Hearts' Heads (Patch)	labotor - HeartsWires	FairyRaceHWHeadsPatch_36897789-8300-4ac7-9a62-f5d3fec41bbd.pak			
-562	FairyRace CC - Long + Short Flowery hair (Patch)	labotor - EmeraldTechno	FairyRaceFlowerHairPatch_cb507d7a-4396-4e7b-b8ae-e1a92e5816c9.pak			
-563	FairyRace CC - More Dreadlocs and Curly Hairstyles (Patch)	labotor - Bububull	FairyRaceMDCHPatch_67fdcdb5-ca0d-4e54-a4d4-74ffef615bfd.pak			
-564	FairyRace CC - Faces of Faerun (Patch)	labotor - Alojia	FairyRaceFoFPatch_c567c7b9-ad73-4e2e-aaa3-2277b1835e9b.pak			
-565	FairyRace CC - Jerinski's Heads for the Short Lads (Patch)	labotor - jerinski	FairyRaceShortLadsPatch_5c41a00b-490a-47f8-ae72-f04736ca87e1.pak			
-566	FairyRace CC - Vemperen's Other Heads Repaired (Patch)	labotor - Dufresne12	FairyRaceVemperenPatch_195c5fa6-dcbd-42c7-b76c-3466bbba3387.pak			
-567	SatyrRace CC - Faces of Faerun (Patch)	labotor - Alojia	SatyrRaceFoFPatch_d3612b11-75da-4fe5-a615-57ccc72477c3.pak			
-568	SatyrRace CC - Em's Custom Hair Pack 1 (Patch)	labotor - Vessnelle	SatyrRaceEmCHPPatch_1679a35a-fa89-469b-bb11-79d75b27868d.pak			
-569	SatyrRace CC - Ghouls Custom Piercings (Patch)	labotor - ghouls0rules	SatyrRaceGCPPatch_96c14053-9ec0-41e2-8207-a9e53569471b.pak			
-570	SatyrRace CC - Long + Short Flowery hair (Patch)	labotor - EmeraldTechno	SatyrRaceFlowerHairPatch_b8b815f8-ecde-410e-93aa-f398e3579c45.pak			
-571	SatyrRace CC - More Dreadlocs and Curly Hairstyles (Patch)	labotor - Bububull	SatyrRaceMDCHPatch_d7e5e7ec-7e65-4a9e-aa41-c351e129cae7.pak			
-572	SatyrRace CC - Vessnelle's Hair Collection (Patch)	labotor - Vessnelle	SatyrRaceVessnellePatch_c540a46b-183d-41d1-bcaa-2c206a3ea53d.pak			
-573	SatyrRace CC - More Beards (Patch)	labotor - bububull	SatyrRaceMoreBeardsPatch_7e585fff-d179-44be-aeb0-4f4b6d05e901.pak			
-574	Jerinski's Alt Hairs - Hobgoblin patch	jerinski	jerinski_alt-hairs_hob-patch_b69be1e4-e1b8-4863-9f72-df467b74c4b1.pak			
-575	Jerinski's Alt Hairs - Firbolg patch	jerinski	jerinski_alt-hairs_firbolg-patch_a243a929-5cf5-410a-b2a7-12f9b611150a.pak			
-576	Hobgoblin Beard Pack Mod Compatibility	Bububull, patched by Babbo	Hobgoblin_Bubu_MoreBeards_dd06f6f2-a8a0-4f20-9390-b67a77ce1c6b.pak			
-577	Hobgoblin Dreads 1 Mod Compatibility	Bububull, patched by Babbo	Hobgoblin_Bubu_Dreads1_8b62762c-9b94-45e8-a97f-70763f217fb9.pak			
-578	Hobgoblin Dreads Mod Compatibility	Bububull, patched by Babbo	Hobgoblin_Bubu_Dreads2_845cf815-cb12-4338-967d-f345f45085c4.pak			
-579	Hobgoblin Emerald BBD Hair Pack Mod Compatibility	EmeraldTechnopath, patched by Babbo	Hobgoblin_Emerald_BBD_1369bcef-88e8-4f2d-abca-dcb8773b7d88.pak			
-580	Hobgoblin Emerald Braids and Dreads Hair Pack Mod Compatibility	EmeraldTechnopath, patched by Babbo	Hobgoblin_Emerald_BraidDreads_c4606500-fd5a-4c10-9d70-11068da024f6.pak			
-581	Hobgoblin Emerald HP1 Pack Mod Compatibility	EmeraldTechnopath, patched by Babbo	Hobgoblin_Emerald_HP1_2a32c3c3-530d-4d3a-9514-3a95cf53bc92.pak			
-582	Hobgoblin Hairstyles of Faerun Mod Compatibility	Aloija, patched by Babbo	Hobgoblin_Aloija_HOF_41784380-702c-456e-b9b3-dfb1e47597e9.pak			
-583	Hobgoblin Kylin Hair Edit Mod Compatibility	Kylin, patched by Babbo	Hobgoblin_Kylin_HairEdit_a0457fdb-00cb-4f5e-8cf5-17dc6f878067.pak			
-584	Hobgoblin Tasha Hair Cauldron 2 Mod Compatibility	Tashaweeds, patched by Babbo	Hobgoblin_Tasha_Cauldron2_6d32af49-77a4-4c14-8250-dd47782e17fc.pak			
-585	Hobgoblin Tepkunset HC Mod Compatibility	Tepkunset, patched by Babbo	Hobgoblin_Tepkunset_HC_d32dd722-5743-4676-9dff-eaa1bbe5c65f.pak			
-586	Baldurian Beauty - WotD Patch	Sithembile	BaldurianBeauty_WotD_Patch_ceae24ef-671b-4f2e-9ce6-5389d1d9d758.pak			
-587	Faces of Faerûn: Whispers of the Divine: Aasimar Patch	Aloija, patched by Trips	Aloija_New_Heads_Patch_Aasimar_17d81438-2f39-4a76-a705-63f6d91c6ef1.pak			
-588	Patches for CC Races lsx	Padme4000	P4_Hair_Makeup_WorkTogether_b2c7c572-faaa-43ae-8609-29d16fd83bb0.pak			
-589	FoZ Patches_For_CC_Races_lsx	Padme4000	FoZ Patches_For_CC_Races_lsx_52aa8beb-9ab0-4e0c-a75a-14387720d1a2.pak			
-590	Homebrew Spells Compatibility AIO	xarara	HomebrewAIO_71c4a919-f376-452a-b0d7-b7be7811d2e4.pak			
-591	Metamagic Compatibility	xarara	MMSE_d8664fe8-870d-4e6d-84a0-20d1aa1a3374.pak			
-592	---------------------------|        Compatibility Patches        |---------------------------	Echelon  Raizan	Plus Separators - Compatibility Patches_2b91a1a6-9c4e-46f7-878a-8b56c164b22d.pak	Category, Plus, Separator		
-593	Compatibility Framework AIO Subclass Patch	xarara	CFAIO_4460103a-2281-4579-bb9b-2f95a32b69d3.pak			
-594	AV Item Shipment Framework	Aetherpoint, Volitio	AVItemShipmentFramework_e6333436-9cf0-4464-aaf2-39246292575e.pak		VolitionCabinet	
-595	RacialASI	Fenrules	RacialASI_1ebf4a1c-01d4-41ed-8aa1-5b3975c6d019.pak		Volition Cabinet, Mod Configuration Menu, Kender's Labs Core Libs	
-596	CompatibilityFramework	BG3 Community	SubclassCompatibilityFramework_67fbbd53-7c7d-4cfa-9409-6d737b4d92a9.pak	Template		
-597	Fallen_CC_Cleaner	FallenStar	Fallen_CC_Cleaner_04d305aa-5be7-4604-821d-d632bae2fdf3.pak			
+334	Crystal Crown	AkELkA	CrystalCrown_959a0f48-3d3b-4c2d-b305-e5c4c166bacb.pak			
+335	Crystal Crown DMH	AkELkA	CrystalCrown_DMH_1075ced3-75e6-48a6-9eb7-26beac419b4b.pak			
+336	Crystal Crown Rathgor	AkELkA	CrystalCrown_Rathgor_166d0c5f-bab8-4207-8d89-c7533a0cf20d.pak			
+337	--------------------------->             Hair	Echelon  Raizan	Plus Divisions - Hair_17742f50-4fb0-405d-849f-490689ef540c.pak	Category, Division, Plus		
+338	Hairstyles of Faerun	Aloija	HSoF_e8766cb7-3791-4fd9-ba47-1ff7880082d8.pak			
+339	CBR_Simple_Hair	Cerberry	CBR_Simple_Hair_704b3a57-6159-4bf9-95ba-dfd53986d562.pak			
+340	Toarie's Autosnap Hairpack	Toarie	AutoSnapPack_dfdb69c0-23ed-46a7-83bb-39fbbb84308c.pak			
+341	Tasha's Cauldron of Hairstyles	TashaWeeds	Tasha's_Hairs_22a5106e-1ca0-4fd4-8814-18fad02e8d44.pak			
+342	Tasha's Cauldron of Hairstyles Pack 2	TashaWeeds	Tasha's_Hairs_2_1ccb0216-5a79-4ce6-85e0-a144fc105b9f.pak			
+343	Tav's Hair Salon - Tav's Hairpack	Toarie	DFHairPack_da0b99ca-4406-49c1-bef9-3a08621280a2.pak			
+344	Kay's Hair Extensions	perseidipity	KayHairExtensions_0071c9ed-88b6-4c78-8adb-112593d08c1a.pak			
+345	TepkunsetHairCollection	tepkunset	TepkunsetHairCollection_a34a1b2d-bcaa-44e0-885a-6087ccf92357.pak			
+346	Em_Custom_Hair_Pack_One	EmeraldTechno	Em_Custom_Hair_Pack_One_875aa573-7b01-4dcc-822f-349968e57b4b.pak			
+347	Em_Custom_Hair_Pack_Two	EmeraldTechno	Em_Custom_Hair_Pack_Two_d7678546-2393-433d-a3b4-256bfbbfdc78.pak			
+348	Em's Dreads and Braids Hair	EmeraldTechno	Em_Dreads_and_Braids_90417f85-6d95-413f-9679-61acebeaf143.pak			
+349	KS HAIR Edits Pack	keysuspect	Hair_Edits_f14dec1b-620b-465c-8034-54db520da4cc.pak			
+350	Vemperen's Other Heads	Dufresne12, vemperen, Kartoffel	vemperens_heads_ef0fb0e3-a4e1-4672-84b3-bc63260e12af.pak			
+351	Vessnelle_Hair1	Vessnelle	Vessnelle_Hair1_54ebec6c-00ce-48e1-8b75-53b6b72ecc3a.pak			
+352	Vessnelle_Hair2	Vessnelle	Vessnelle_Hair2_d357aca8-e222-4c09-8b49-54354405502e.pak			
+353	Vessnelle_Hair3	Vessnelle	Vessnelle_Hair3_fb9c340a-771a-46e8-bc7c-0d40b80c1885.pak			
+354	Vessnelle_Hair4	Vessnelle	Vessnelle_Hair4_7661f2db-28a1-44d0-a52a-9485cf9019eb.pak			
+355	--------------------------->             Horns	Echelon  Raizan	Plus Divisions - Horns_5dba574b-c7af-4afd-89e6-a93457fb9f05.pak	Category, Division, Plus		
+356	Kylin's Horns	kylin3	Kylin_Horns_a952bb44-2cb5-4e6a-ad7b-b431a2249129.pak			
+357	Hornology	lumad11	lumad11_Hornology_85b7d472-e341-473a-a953-aeced8141b41.pak			
+358	Horns of Plenty	lumad11	lumad11_Horns_of_Plenty_b4f41d44-d7a2-44bd-818e-fcb1cb0ebe0e.pak			
+359	PseudoKociaras' Horns	PseudoKociara	PseudoKociaras'_Horns_c1d7f569-acb3-4c91-8f67-c1e778bfdf62.pak			
+360	Horns of Faerûn	Aloija	Aloija_New_Horns_192f57e4-a961-47be-ab94-e70042f9d211.pak			
+361	Horns of Faerun Modded Races Patch	Padme4000	horns_of_faerun_patch_cfed36c5-82d2-41c3-a287-f679e96b4ca0.pak			
+362	Half Tief Modded Races Tails Patch	Padme4000	Half-Tiefs_Tail_Patch_f9f73d62-60f8-45c5-b6d0-48abd0c880d6.pak			
+363	Ghouls Customization Compendium	Ghouls0Rules	Ghouls_Custom_Heads_0ca0abef-f30a-40de-b8ef-e21a5868c498.pak			
+364	Half-Tiefs - Flora and Fauna (Custom Horn Pack)	labotor	TieflingHybrids_FF_69919c1f-7e1c-4abc-807c-40e0b747e36d.pak			
+365	--------------------------->             Hair Colours	Echelon  Raizan	Plus Divisions - Hair Colours_5d29dd44-d70a-4cdf-8c9d-a59561495309.pak	Category, Division, Plus		
+366	P4 Bangs Bangs Everywhere	Padme4000	p4_fringes_80fb12aa-1d82-4df4-af42-7beae9250fb2.pak			
+367	ASTRL Haircolor Overhaul	Astralities	ASTRLhairoverhaul_0ea2fbb8-6d23-4910-9a3b-a20fbd555240.pak			
+368	ASTRL Hair Color Collection	Astralities	ASTRLhaircolorsv2_7a741e61-cf7c-46cc-b1b5-b67fbefd2ff4.pak			
+369	ASTRL Hair Color Supplement	Astralities	ASTRLhaircolors_525600ac-ca07-4745-a5bc-0a620975e2f3.pak			
+370	more_dreads_n_curls_hairstyles	Bububull	Afro_hair_A_52ee7123-bbe3-4f8a-bd62-04327b406cab.pak			
+371	more Dreads and curly hairpack 02	Bububull	dreads_n_curls_pack02_67c540ea-c73d-4b55-b70f-6151f1f09aa0.pak			
+372	Silver's Hair Pack	Silver	Silver_HairPack_1fd44eaf-a4d2-4de4-9560-51a0c8a63987.pak			
+373	Silver's Hair Pack 2	Silver	Silver_HairPack2_c56e4b79-3bf3-446b-b06b-27dc86337663.pak			
+374	Long Flowery Hair	EmeraldTechno	Em_RLong_Hair_ba6b1dc2-0bbc-413f-bd07-1ba808a77ab9.pak			
+375	Short Flowery Hair	EmeraldTechno	Em_Short_Flowery_Hair_e550e525-99ad-4184-944d-d804f19e3743.pak			
+376	--------------------------->             Skin Colours	Echelon  Raizan	Plus Divisions - Skin Colours_3dcead64-75b8-46ac-a5c9-855fd9aad357.pak	Category, Division, Plus		
+377	ASTRL Draconic Sorcerer Scale Colors	Astralities	ASTRL_DraconicSorcererScales_f97666c7-f4d0-4f97-b772-1e8ad643b7f7.pak			
+378	Serpentine Modifications	serpentine_sage	SerpentineModifications_34efd747-28d2-43cc-834d-15132ea9aeda.pak			
+379	ASTRL Natural Skintones	Astralities	ASTRLnaturalskintones_af7f742c-c484-441e-8d06-eda735233068.pak			
+380	ASTRL Sublime Skintones	Astralities	ASTRLsublimeskintones_da0e8d69-535c-4218-a42f-118c377184ca.pak			
+381	ASTRL Fantasy Skintones	Astralities	ASTRLfantasyskintones_78537082-46a0-42c7-a718-d2dc9950cfdd.pak			
+382	ASTRL Wondrous Skintones	Astralities	ASTRLwondrouskintones_31a373b2-5943-4a22-8aa5-410ca33792a5.pak			
+383	--------------------------->             Eye Colours	Echelon  Raizan	Plus Divisions - Eye Colours_8dd2f784-354b-47c4-9316-01f1a84575c5.pak	Category, Division, Plus		
+384	ASTRL Feywild Eyes	Astralities	ASTRLfeywildeyes_e6eb4b0f-a921-4632-b324-05c0619fcdc1.pak			
+385	ASTRL Understated Eyes	Astralities	ASTRL_UnderstatedEyes_04d882a5-a1c8-4527-8772-3973d6b11aa5.pak			
+386	--------------------------->             Accesories	Echelon  Raizan	Plus Divisions - Accesories_81cca0ce-a866-4731-8da2-486f3a2ce52d.pak	Category, Division, Plus		
+387	Leyline Leila's Loops And Swirls Piercings Mod	LeylineLeila	Leyline_Leilas_Loops_And_Swirls_d6b694b8-160f-478e-9714-afd6507e6e26.pak			
+388	Kylin's Piercings	kylin3	Kylin_Piercings_ec1b65ea-36e9-4469-b01c-07b346a36500.pak			
+389	Ghouls Custom Piercings	Ghouls0Rules	Ghouls_Custom_Piercings_49f60f92-cde9-4621-aeae-7a5c9d412c03.pak			
+390	Trips' Accessories	Discord: _trips_	Trips_Lip_Piercing_0ab9e889-3e9a-4f71-be60-ce33aedbeae7.pak			
+391	More beards	bububull	more_beards_4d0c2a4c-d9e7-424b-970f-889f887fbfe3.pak			
+392	---------------------------|            Miscellaneous            |---------------------------	Echelon  Raizan	Plus Separators - Miscellaneous_9d5a2903-9cf2-4eb9-b04d-87b7a79dd522.pak	Category, Plus, Separator		
+393	---------------------------|               Cheats                |---------------------------	Echelon  Raizan	Plus Separators - Cheats_ff60bde3-c42c-46b5-9fb6-74617b1f79a1.pak	Category, Plus, Separator		
+394	FamilyLegacy	Codey Hanson	FamilyLegacy_12d4fdc5-0b13-460f-91c5-beaac4ab9e86.pak			
+395	Reliable Rolls - A	MaskedRPGFan	Reliable Rolls_55a7babf-1b39-4656-8fc1-650b4879a10b.pak	Passives, Rolls		
+396	Ring Of Gods	Palmaman33	RingOfGods_c53a183b-10c0-4bcf-ab4d-296f60ca972d.pak			
+397	Sword Of Gods	Palmaman33	SwordOfGods_46b38455-1799-45fb-9d5c-dfb2667874e7.pak			
+398	Sword Of Gods - One Handed	Palmaman33	SwordOfGods_onehanded_e241dad4-8d72-4f4b-9b88-f2a077c6f60e.pak			
+399	---------------------------|            Translations             |---------------------------	Echelon  Raizan	Plus Separators - Translations_25b57078-0b51-4514-a8a1-7801ca014c71.pak	Category, Plus, Separator		
+400	FamilyLegacy_FR	Solmyr	FamilyLegacy_FR_c8b3bbc9-c449-4ede-a0f0-5d96b29257c8.pak			
+401	5e Spells FR	Fenrules Ballzeh Thraximundar2772	5e Spells FR_4f1f9650-c6aa-43d6-8b14-b19b3951f3d1.pak	Translation		
+402	AberrantMind_FR	BG3 Mod Translator	AberrantMind_FR_ad32003c-631f-4557-9f5c-288777f87990.pak			
+403	AbsoluteWrath_FR	BG3 Mod Translator	AbsoluteWrath_FR_ca0b1dd8-1aeb-49d7-a124-4918b65e972f.pak			
+404	Additional Backgrounds FR	Fenrules / Thraximundar2772	Additional Backgrounds FR_2de613b6-cd67-45cb-bea9-9e2523945167.pak			
+405	Additional Encounters FR	Valgunn	Additional Encounters FR_4533c6b7-6a5a-4cbe-8135-c7d676c42bc9.pak	Translation		
+406	Aether's Black Dye FR	Anklem	Aether's Black Dye FR_45cfccfc-f236-479d-bdc0-d78f846dc53a.pak	Translation		
+407	Ambition Domain FR	Thraximundar2772	Ambition Domain_12c1ceef-cedb-4083-9c3d-4532c93c8ecf.pak	Translation		
+408	Ancient Jewelry Roleplay FR	Valgunn	Ancient Jewelry Roleplay FR_1a3967a5-62fc-49f1-905f-37e19359cadf.pak	Translation		
+409	Ancient Weaponry Roleplay FR	Valgunn	Ancient Weaponry Roleplay FR_9d85b81e-e04a-476f-8cb3-97da5884d623.pak	Translation		
+410	Appearance Edit Enhanced FR	Anklem	Appearance Edit Enhanced FR_657b1217-9ac1-4dbb-9f20-9e7db69f57fe.pak	Translation		
+411	ArcaneArcher5e FR	Sewayn Thraximundar2772	ArcaneArcher5e FR_eed8704f-f7e2-4812-8124-ee36b2f5d1ab.pak	Translation		
+412	Artificer class FR	Ballzeh Thraximundar2772	Artificer class FR_b50aa856-9ab5-4a4b-a57a-6d472f91f074.pak	Translation		
+413	AS_ExtraDyes_Bundle_FR	Anklem	Extra dyes FR_7e09e85f-1477-4f60-90d1-771ca094c38e.pak	Translation		
+414	Asgorath Chaos Sorcerer FR	Thraximundar2772	Asgorath Chaos Sorcerer FR_723a7b9d-43de-4453-a28a-b2525dd18dba.pak	Translation		
+415	Astarion's Gear FR	Anklem	Astarions Gear FR_21fc2e49-36ed-4d0d-a642-6326e00610c2.pak	Translation		
+416	AstralSelf5e -FR	Valgunn	AstralSelf5e -FR_cb02a864-b452-453d-8ccf-8fa972f6c714.pak	Translate		
+417	BackPacks FR	kusanagi942	BackPacks FR_46a5c507-257e-4bed-b63a-8d2aec45e1b8.pak			
+418	Bags of Sorting FR	Valgunn	Bags of Sorting FR_02088b1d-feef-46e0-a271-4e97dfe9041e.pak	Translation		
+419	BagsBagsBagsReforgedFR	Friipside	BagsBagsBagsReforgedFR_b70e2f3a-8900-4331-ab69-9a044e1e072b.pak			
+420	Banneret5e -FR	Valgunn	Banneret5e -FR_fea758e3-f352-43fd-89fd-d9307991433b.pak	Translate		
+421	BB26DragonbornSubraceExpansion(Fizbans) FR	kusanagi942	BB26DragonbornSubraceExpansion(Fizbans) FR_873ee25d-ef55-43a6-9363-60157c05b1cb.pak			
+422	Best Friend FR	Thraximundar2772	Best Friend FR_c0e4abb0-e689-4a03-be05-c9d50fbcf8a4.pak	Translation		
+423	Blood Hunter FR	Sewayn Thraximundar2772	Blood Hunter FR_21049d33-a89f-4937-a682-de7c7fc8f9ec.pak	Translation		
+424	Blood Hunter Profane Soul FR	Sewayn Thraximundar2772	Blood Hunter Profane Soul FR_ffedbc2b-39eb-4ee5-974e-b8de706ae51f.pak	Translation		
+425	Bloodletter FR	Sewayn	Bloodletter FR_b5d378c3-8559-4953-9b9e-45f2a51e9686.pak	Translate		
+426	Cambion Race FR	Thraximundar2772	Cambion Race FR_54dd98db-1129-4963-b639-b3d69934368a.pak	Translation		
+427	CBR_Battlemage FR	Anklem	Battlemage Armor FR_1f66937d-c6ad-49c7-8412-2be1e0e64c4f.pak	Translation		
+428	CBR_Kisses FR	Anklem	Kisses FR_7336878b-a21f-4b03-9526-428650ca8960.pak	Translation		
+429	CBR_Pirates_Rebels FR	Anklem	Pirates and Rebels FR_d6eb2cd3-594a-404f-a33d-7a6e35c7eef5.pak	Translation		
+430	Changeling FR	Fenrules / Thraximundar2772	Changeling FR_7abb945d-d542-440c-af51-b50251ef1af7.pak			
+431	Circle of Dreams FR	Ballzeh	Circle of Dreams FR_a3cfcc21-ca84-4058-807e-00677ea7470b.pak	Translation		
+432	Circle of Spores Enhanced FR	kusanagi942 / Thraximundar2772	CircleofSporesEnhanced FR_b6f0701d-0c6d-4294-ba82-d15842fbcf27.pak			
+433	Circle of Stars FR	Ballzeh	Circle of Stars FR_26976f74-e9f3-412e-875a-2a1f6b7bfac5.pak	Translation		
+434	Circle of Stormchasers FR	Sewayn	Circle of Stormchasers FR_db0e2bd1-b7f7-45a0-bf61-8a3fed5e4857.pak	Translation		
+435	Circle of Wildfire FR	Ballzeh	Circle of Wildfire FR_4335e215-4f14-4997-b0f0-cf5f028c78bb.pak	Translation		
+436	Playable Firbolgs FR	Thraximundar2772	Playable Firbolgs FR_e9474884-d0eb-4f89-88a2-a058a3137b32.pak	Translation		
+437	CircleOfTheSea_FR	BG3 Mod Translator	CircleOfTheSea_FR_99c37d2a-354a-48ff-affd-ad37c7b16644.pak			
+438	Clerics_TrueFR	Ballzeh	Clerics_TrueFR_6a63300f-a1b1-4264-8af1-bf78a8f78320.pak			
+439	CloaksOfFaerunFr	Fenrules	CloaksOfFaerunFr_26b261f3-2c24-4495-b50a-27a761f3076e.pak	Translate		
+440	Clockwork Soul FR	Thraximundar2772	Clockwork Soul FR_8b647df7-f2d6-4e7f-bf09-c48499e6cc2e.pak	Translation		
+441	Coffers of Forlorn Treasures FR	Thraximundar2772	Coffers of Forlorn Treasures FR_42bbbabc-1924-44a3-bc7e-c49d34e5fdef.pak	Translation		
+442	College of Spirit FR	Ballzeh / Thraximundar2772	College of Spirit FR_ab0e7157-5631-4cae-980f-070dd2517579.pak	Translation		
+443	College of Valour Enhanced FR	Thraximundar2772	College of Valour Enhanced_d69c7da8-1f6b-423b-ad15-5f4048d18efa.pak	Translation		
+444	Community Library FR	BG3 Community / Thraximundar2772	Community Library FR_2fa8f884-153a-45dd-8475-9aa663da8339.pak	CMTY, Library, Translation		
+445	Crafting Framework FR	Ballzeh	Crafting Framework FR_7756c7f6-19c0-4f92-b4d3-53c1a4ef6054.pak			
+446	Crowns of Nature FR	Anklem	Crowns of Nature FR_d7286874-d48c-40cf-8c39-c8920cae0bea.pak	Translation		
+447	DarkRanger_FR	BG3 Mod Translator	DarkRanger_FR_1af53c8e-f690-44c7-a949-03206baeed6b.pak			
+448	Death Soul FR	Sewayn thraximundar2772	Death Soul FR_af433157-5c6c-4b0a-bdab-64bb74efb37b.pak	Translation		
+449	DEchoKnight -FR	Valgunn	DEchoKnight -FR_7cf23631-3e50-43e9-8acf-23303a5861b2.pak			
+450	Divine Soul (Revised) FR	Fenrules	Divine Soul (Revised) FR_d66ec291-2882-465e-b397-fc6df40c8216.pak	Translation		
+451	DLCEnhanced FR	kusanagi942	DLCEnhanced FR_c15d1d7b-dd5d-4eef-b5b4-b684fce74908.pak			
+452	DreadOverlord_French	Keviinn86	DreadOverlord_French_33d2bb9c-5caf-11ee-8c99-0242ac120002.pak			
+453	Drow Weaponry - Rapier FR	Valgunn	Drow Weaponry - Rapier FR_43ec8419-ecdf-4a57-b3db-2abe81042a63.pak	translate		
+454	DrunkardItems FR	kusanagi942	DrunkardItems FR_9af58939-73cb-410d-adba-2ac889684cfb.pak			
+455	Dwarven Weaponry - Drakefire FR	Valgunn	Dwarven Weaponry - Drakefire FR_1cad2a7e-50bb-4b4c-87fe-5d79a6bc15fb.pak	Translate         		
+456	Elemental_Spells_SHV_FR	Thraximundar2772	Elemental_Spells_SHV_2e4c6be9-8e78-41ea-8c3f-79488779f6db.pak	Translation		
+457	Elven Weaponry - Daggers FR	Valgunn	Elven Weaponry - Daggers FR_32727690-293b-4282-a70c-1b6fb8f91d05.pak	Translate		
+458	Elven Weaponry - Glaives FR	Valgunn	Elven Weaponry - Glaives FR_1c43e8fe-56f3-4eee-9b75-b09e0b7da3d2.pak	Translate		
+459	Elven Weaponry - Katanas FR	Valgunn	Elven Weaponry - Katanas FR_bdc78deef-f1f3-4c20-ab0c-cb38a7ac1ee6.pak	Translate		
+460	Elven Weaponry - Longbows FR	Valgunn	Elven Weaponry - Longbows FR_1a4facdd-c81c-43d3-a14b-c9d5ee91b509.pak	translate		
+461	Elven Weaponry - Needle Addon FR	Valgunn	Elven Weaponry - Needle Addon FR_d30994a8-2fcc-4482-b62d-f7ce1fc11c26.pak	Translate		
+462	Elven Weaponry - Paladin FR	Valgunn	Elven Weaponry - Paladin FR_039695d3-5b4d-498b-be46-1fc9c6c00cc1.pak	Translation		
+463	Elven Weaponry - Shortbows FR	Valgunn	Elven Weaponry - Shortbows FR_bb7fc58c-12d2-4251-8217-23a4076ad67d.pak	Translate		
+464	Elven Weaponry - SmithingKit FR	Valgunn	Elven Weaponry - SmithingKit FR_cfe76618-cca7-40e7-9908-e811da73e8ee.pak	Translate		
+465	Elven Weaponry - Spears FR	Valgunn	Elven Weaponry - Spears FR_6bd2e6a3-c548-4714-b4fa-f7dc944eb444.pak	Translate		
+466	Elven Weaponry - TutorialChest FR	valgunn	Elven Weaponry - TutorialChest FR_931888a3-a7b7-4d76-90ff-e1406548a6e3.pak	translate		
+467	Elven Weaponry - Wands FR	Valgunn	Elven Weaponry - Wands FR_436d4921-38e3-47b8-b7a4-471e00ebb108.pak	Translate		
+468	ElvenBladeWeaponry -FR	Valgunn	ElvenBladeWeaponry -FR_d3137994-3110-4add-a93d-c8e9d4ef4c84.pak	translate		
+469	Em_Dryad_Race FR	kusanagi942	Em_Dryad_Race FR_a2b812cd-5924-48c3-bc1d-c47876338f18.pak	Translation		
+470	Expension Level 13-20 FR	Thraximundar2772	Expension Level 13-20 FR_1ae448e8-3fde-4a41-947d-ec915dd170ce.pak	Translation		
+471	Extra Gear FR	Sewayn	PTW_Extra_Gear_FR_cb86efc7-b8c2-442b-9d28-14874533d6f8.pak	Translate		
+472	Faerun Colors FR	Thraximundar2772	Faerun Colors FR_2a5d6109-fbef-4e05-9462-ece19622abb1.pak	Translation		
+473	FathomlessWarlockFR	Mijj	FathomlessWarlockFR_88e5a2a6-7c40-4a35-9e1d-deb0ccb66e11.pak			
+474	Favored Soul FR	Thraximundar2772	Favored Soul FR_ec215270-3d6e-4645-92b6-ef966e8eac2e.pak	Translation		
+475	Fey Eladrin FR	Thraximundar2772	Fey Eladrin FR_5470a2a8-5a3a-4875-85ca-3c8e9cd039c1.pak	Translation		
+476	FizbansTreasuryOfDragons FR	Ballzeh	FizbansTreasuryOfDragons FR_8e0085f5-e93c-4e2d-a4af-f6ed2a413736.pak			
+477	FollowersOfZerthimon_FR	Fenrules	FollowersOfZerthimon_FR_cfaefdb7-0f8c-4ef7-a76a-4a4e444a2c33.pak			
+478	Genasi FR	kusanagi942	Genasi FR_eee08b22-14f2-41c6-ad56-4a770570d534.pak			
+479	Ghastly Ghouls: Playable Undead Race FR	kusanagi942	UndeadRace FR_67628ead-707c-4190-b203-27784326ec50.pak	Translation		
+480	Ghostwise Halfling FR	Syd Meier	Ghostwise Halfling FR_2e52e676-0dd5-43b2-8eb5-fad6bfc17274.pak	Translation		
+481	Glamour Bard FR	Ballzeh	Glamour Bard FR_ca5e0e7b-7522-42db-9513-3bb0ffc52cd1.pak	Translation		
+482	Goblin Race FR	Fenrules	Goblin Race FR_69b1ae2d-fb88-4328-86d0-a0a50a30e7eb.pak			
+483	godsextra_French	Keviinn86	godsextra_French_acd04a28-5a0c-11ee-8c99-0242ac120002.pak			
+484	Grappler Feat FR	Thraximundar2772	Grappler Feat FR_ffb81b42-bcd2-4da3-93a1-59a01d91894d.pak	Translation		
+485	Grappling Framework FR	Ballzeh	Grappling Framework FR_4fa40a0d-84d3-4d71-85dd-acbb611280b5.pak			
+486	Graviturgy Magic FR	Ballzeh	Graviturgy Magic FR_d1163ecc-195c-4294-b27a-0143758ec50c.pak			
+487	Hexblade subclass FR	Ballzeh Thraximundar	Hexblade subclass FR_efbc3d6d-35f7-4abf-ab39-786eddbc46ca.pak	Translation		
+488	HorizonWalker5e FR	Thraximundar2772	HorizonWalker5e_1a7ea1ca-922f-4b0f-8a06-28e9a9b0170c.pak	Translation		
+489	Hugs FR	Anklem	Hugs FR_0fd96fa9-c285-41ce-af1a-884e186aebe6.pak	Translation		
+490	Impactful Backgrounds FR	Thraximundar2772	Impactful Backgrounds_5b3be250-96f5-4ca3-a5c0-b7408bb99ae1.pak	Translation		
+491	Improved Dragonborn Breath Weapon FR	kusanagi942 Thraximundar2772	Improved Dragonborn Breath Weapon FR_b82d41b9-2535-4f9d-83dd-87ede3359c58.pak	Translation		
+492	Inquisition Domain FR	Thraximundar2772	InquisitionDomain FR_39d6e58c-36bf-4e74-9159-f4aec94c6587.pak	Translation		
+493	JWL Discordant Instruments -FR	Valgunn	JWL Discordant Instruments -FR_dae8ce5d-3a2a-4ca4-ac41-5b3d5ddcbc86.pak	Translate		
+494	Legendary Equipment FR	Thraximundar2772	Legendary Equipment FR_c998546a-15da-4cd0-8276-b5fe61ae5b3d.pak	Translation		
+495	LegendaryItems -FR	Ballzeh	LegendaryItems -FR_78b27ebc-16f0-4f56-a7f4-0b3ff873c129.pak	Translate		
+496	Long Death FR	Thraximundar2772	Long Death FR_f7f4c5fe-12de-4e3f-ab7e-9d15b0bf73f7.pak	Translation		
+497	Lunar Sorcery FR	Thraximundar2772	Lunar Sorcery FR_11474f48-bff1-4b0b-83df-bc160b450731.pak	Translation		
+498	Magus class FR	Sewayn	Magus class FR_74211bd1-70ee-48f2-ae64-1102e1f8ce97.pak	Translation		
+499	Monk Subclass - Way of Mercy_FR	Ballzeh	Monk Subclass - Way of Mercy_FR_27f9855c-71a9-43da-a875-457b5d689346.pak			
+500	Monster Slayer FR	Thraximundar2772	Monster Slayer FR_25c124b9-d1e8-4cab-a937-e10181bd28ac.pak	Translation		
+501	More Mage Gear FR	Anklem	More Mage Gear - FR_0f68ced7-d980-493f-865d-84f0adc4e52.pak	Translation		
+502	Oath of Conquest FR	Ballzeh / Thraximundar2772	Oath of Conquest FR_141b8809-3604-4349-9a3a-4e9f4af17ed0.pak	Translation		
+503	Oath of Glory FR	Ballzeh	Oath of Glory FR_afc36d44-4a1b-4259-929f-c00b541ff445.pak	Translation		
+504	Oath of Redemption FR	Sinistr	OathofRedemption FR_3b174707-bedb-498a-83a3-89c40d88f0db.pak			
+505	Oath of the Phoenix FR	Sewayn Thraximundar2772	Oath of the Phoenix FR_4367bb03-bee8-4518-8ac5-8cd9961a0a9d.pak	Translation		
+506	Oath of the Watchers FR	kusanagi942	Oath of the Watchers FR_84a9d4e2-a54d-4fdd-8f3f-e6f27b466b87.pak	Translation		
+507	Olympian_Weapons of Olympus FR	Valgunn	Weapons of Olympus FR_4f413292-932d-40a8-a257-442260ec2225.pak	Translation		
+508	Owlin Race FR	Thraximundar2772	Owlin Race FR_04e72094-59e5-4ed8-bd40-8e269fa18a47.pak	Translation		
+509	Path of the Battlerager FR	Thraximundar2772	Path of the Battlerager FR_59973217-c4e9-4d40-b7e1-4c612425a9ae.pak	Translate		
+510	Path of the Beast FR	Thraximundar2772	Path of the Beast FR_7101c16e-c786-4ea4-88d9-cfeeb09e70f1.pak	Translation		
+511	Path of the Giant FR	Ballzeh / Thraximundar2772	Path of the Giant FR_18f1b6ea-9385-4510-83c0-5b2b39368ccd.pak	Translation		
+512	Path of the Primal Sentry FR	Thraximundar2772	Path of the Primal Sentry FR_51978529-ed35-4a90-82ac-e291685acb7e.pak	Translate		
+513	Path of the Zealot FR	Thraximundar2772	Path of the Zealot FR_e2146dac-359c-4dbc-9bee-544a4f050c86.pak	Translate		
+514	PK Clothes FR	Anklem	PK Clothes FR_212d6730-2d92-4bbc-a72b-23d249528bae.pak	Translation		
+515	Playable Fairy Race FR	Thraximundar2772	Playable Fairy Race FR_0c92f153-8451-4e4d-a235-7da629a43c8c.pak	Translation		
+516	Quiver FR	kusanagi942	Quiver FR_e00f4076-0339-4fd3-ab25-3007c0fae8b4.pak			
+517	RingOfMetamorph FR	Anklem	Ring of Metamorph FR_b8b2888a-a56d-4cab-bbe9-ccc3c576cd82.pak	Translation		
+518	Rings of Pantheon FR	kusanagi942	Rings of Pantheon FR_73c5bedc-6e2a-4315-a5a3-e4ccf475b810.pak	Translation		
+519	Rogue Fencer Subclass FR	Sewayn	Rogue Fencer Subclass FR_d96b3cd2-813a-4592-8b40-9a35a23f8e8d.pak			
+520	roguesextra_FR	Ballzeh	roguesextra_FR_3be5399b-a648-4fad-8ff6-328a82dbcd5b.pak			
+521	Rune Knight FR	Thraximundar2772	Rune Knight FR_c69cbf9d-ff78-4d12-97fd-888abfe879cf.pak	Translation		
+522	Samurai5e -FR	Valgunn	Samurai5e -FR_65e32a3d-a665-47f7-893c-31dca2f42b3d.pak	translate		
+523	Satyr Race FR	kusanagi942 Thraximundar2772	Satyr Race FR_226cc41b-9926-437b-ab15-a2dcfdda355b.pak	Translation		
+524	School of Transmutation Enhanced FR	Thraximundar2772	School of Transmutation Enhanced_516ef039-d95d-404f-b937-999a9228afb4.pak	Translation		
+525	Skald FR	Sinistr	Tet42_Skald FR_cea2e02b-940b-4569-874d-1e5f9056a6dd.pak			
+526	Solidarity Domain FR	Thraximundar2772	Solidarity Domain_a20ed088-8aaa-4b4c-84e0-1a2f5c50907b.pak	Translation		
+527	Storm Sorcery Enhanced_FR	BG3 Mod Translator	Storm Sorcery Enhanced_FR_158089d0-014d-45cd-9068-4da8a905fb14.pak			
+528	StormHerald5e FR	kusanagi942	StormHerald5e FR_7605edb4-6d0c-4742-b680-34244f37278e.pak			
+529	Strength Domain FR	Traximundar2772	Strength Domain FR_1cd16873-da25-4bc3-ba4e-c63188d68580.pak	Translation		
+530	Swarmkeeper FR	Sewayn	Swarmkeeper FR_9a96c40f-7ad7-43db-b252-9f4a2ca7224c.pak	Translation		
+531	Syd Kender FR	Thraximundar2772	Syd Kender FR_0b959a9a-ede1-413f-b6bb-8ae36c9dbd7a.pak	Translation		
+532	Tavern Brawler Feat FR	Thraximundar2772	Tavern Brawler Feat FR_7d2d0307-4052-4704-b227-acde7ab113a5.pak	Translation		
+533	The First Vampire FR	Thraximundar2772	The First Vampire FR_59c38018-e25e-4c3c-89d7-bd2663f3dee5.pak	Translate		
+534	Tiefling Compendium FR	kusanagi942 Thraximundar2772	Tiefling Compendium FR_8264c939-1e8b-4258-b252-85eaff67bb5d.pak	Translation		
+535	Transmog Enhanced FR	Ballzeh	Transmog Enhanced FR_1ba7bdad-5bc5-497c-982d-e712a01cc8bd.pak			
+536	Ulitharid - playable Mind Flayer's FR	Valgunn	Ulitharid - playable Mind Flayer's FR_adf07555-3d71-4bee-b56a-7a391237eb03.pak	Translation		
+537	Valkrana's Spellbook FR	Fenrules / Thraximundar2772	Valkrana's Spellbook FR_8c595044-937f-4cd2-8179-ee0aa07c0a5d.pak	Translation		
+538	War Domain Enhanced FR	Thraximundar2772	War Domain Enhanced_388904f7-0abb-4df9-a23a-7905af517fdf.pak	Translation		
+539	Warlock Undead FR	Fenrules thraximundar2772	Warlock Undead FR_5f3bb322-b305-415d-9d07-c49b46ff188a.pak	Translation		
+540	Weapon Training Feat OneDnD UA2 FR	kusanagi942	Weapon Training Feat OneDnD UA2 FR_cc06dc0c-68a1-4bf4-9791-035e2b377561.pak			
+541	Whispers of the Divine - Aasimar Script Extender Edition - Version FR	Ballzeh / Thraximundar2772	Aasimar SEE FR_fa0cf28c-1701-4d8d-a899-19375d03be00.pak	Translation		
+542	Yuanti FR	Thraximundar2772	Yuanti FR_b0b9bdf7-bf1d-4f3b-b7bb-2f5e151c699f.pak	Translation		
+543	Zeal Domain FR	Traximundar2772	Zeal Domain_c2a58503-05b1-4709-b9ae-4f43037c1176.pak	Translation		
+544	--------------------------->             Tweaks	Echelon  Raizan	Plus Divisions - Tweaks_45784200-7911-419f-8bb7-52a4072bcb6c.pak	Category, Division, Plus		
+545	CustomCompanions	adriant1978	CustomCompanions_a6b6aaa8-88bd-11ee-908e-13034502ea2b.pak	Companions		
+546	College of Valour Enhanced	Lumaterian	College of Valour Enhanced_8b1c26ca-d18f-4df3-8094-2c414b522923.pak			
+547	Knowledge Domain Enhanced	Lumaterian	Knowledge Domain Enhanced_47697342-bf42-4316-b188-d05811298854.pak			
+548	War Domain Enhanced	Lumaterian	War Domain Enhanced_916f28a7-e72c-4a84-8d38-9e38fcfb015e.pak			
+549	Circle of Spores Enhanced	Havsglimt	CircleofSporesEnhanced_234262d5-7bf8-4ecf-a0f9-0d5544fb40ed.pak			
+550	Circle of the Land Enhanced	Lumaterian	Circle of the Land Enhanced_943fe63a-161c-4865-9191-3061287ddc23.pak			
+551	Eldritch Knight Enhanced	Lumaterian	Eldritch Knight Enhanced_24de6568-a2bc-4127-a08f-c6f6242b9185.pak			
+552	Arcane Trickster Enhanced	Lumaterian	Arcane Trickster Enhanced_3246dfee-e767-4bcd-b866-b509222696b2.pak			
+553	School of Transmutation Enhanced	Lumaterian	School of Transmutation Enhanced_12a74e1f-b60b-4d65-a132-7089efc2067f.pak			
+554	Storm Sorcery Enhanced	Lumaterian	Storm Sorcery Enhanced_29bf6371-99fe-4cb0-98e4-97989d8748a8.pak			
+555	Starting Equipment PHB	Lumaterian	Starting Equipment PHB_355db5b3-6394-4586-a449-fcca4d719f5b.pak			
+556	SEP Patch - Inquisition Domain	Lumaterian	SEP Patch - Inquisition Domain_68ed5891-9316-4447-8c48-811b10723736.pak			
+557	SEP Patch - Paladin Armor Visuals	Lumaterian	SEP Patch - Paladin Armor Visuals_01d69dc4-a9d2-43e3-8fb1-7758b9fa9792.pak			
+558	SEP Patch - Hexblade	Lumaterian	SEP Patch - Hexblade_c9e61842-41b8-4c3e-958d-32fd9118d0bf.pak			
+559	---------------------------|               Patches               |---------------------------	Echelon  Raizan	Plus Separators - Patches_3ef321fd-1189-4941-87e4-cf646c211d30.pak	Category, Plus, Separator		
+560	DEchoKnight Fix - WotD:Aasimar	wesslen, Trips	DEchoKnightAasimar_1068e5ed-3cd2-4033-b49f-d809c4396f85.pak			
+561	FairyRace CC - Em's Custom Hair Pack 1 + 2 (Patch)	labotor - EmeraldTechno	FairyRaceEmCustomHairPatch_fdbf778d-0780-40c5-89a5-449e34d40e9c.pak			
+562	FairyRace CC - Em's Hair Mashups Pack 1 + 2 + 3 (Patch)	labotor - EmeraldTechno	FairyRaceEmMashupHairPatch_f51f421f-15e0-4d52-9bcc-cf965100394d.pak			
+563	FairyRace CC - Hearts' Heads (Patch)	labotor - HeartsWires	FairyRaceHWHeadsPatch_36897789-8300-4ac7-9a62-f5d3fec41bbd.pak			
+564	FairyRace CC - Long + Short Flowery hair (Patch)	labotor - EmeraldTechno	FairyRaceFlowerHairPatch_cb507d7a-4396-4e7b-b8ae-e1a92e5816c9.pak			
+565	FairyRace CC - More Dreadlocs and Curly Hairstyles (Patch)	labotor - Bububull	FairyRaceMDCHPatch_67fdcdb5-ca0d-4e54-a4d4-74ffef615bfd.pak			
+566	FairyRace CC - Faces of Faerun (Patch)	labotor - Alojia	FairyRaceFoFPatch_c567c7b9-ad73-4e2e-aaa3-2277b1835e9b.pak			
+567	FairyRace CC - Jerinski's Heads for the Short Lads (Patch)	labotor - jerinski	FairyRaceShortLadsPatch_5c41a00b-490a-47f8-ae72-f04736ca87e1.pak			
+568	FairyRace CC - Vemperen's Other Heads Repaired (Patch)	labotor - Dufresne12	FairyRaceVemperenPatch_195c5fa6-dcbd-42c7-b76c-3466bbba3387.pak			
+569	SatyrRace CC - Faces of Faerun (Patch)	labotor - Alojia	SatyrRaceFoFPatch_d3612b11-75da-4fe5-a615-57ccc72477c3.pak			
+570	SatyrRace CC - Em's Custom Hair Pack 1 (Patch)	labotor - Vessnelle	SatyrRaceEmCHPPatch_1679a35a-fa89-469b-bb11-79d75b27868d.pak			
+571	SatyrRace CC - Ghouls Custom Piercings (Patch)	labotor - ghouls0rules	SatyrRaceGCPPatch_96c14053-9ec0-41e2-8207-a9e53569471b.pak			
+572	SatyrRace CC - Long + Short Flowery hair (Patch)	labotor - EmeraldTechno	SatyrRaceFlowerHairPatch_b8b815f8-ecde-410e-93aa-f398e3579c45.pak			
+573	SatyrRace CC - More Dreadlocs and Curly Hairstyles (Patch)	labotor - Bububull	SatyrRaceMDCHPatch_d7e5e7ec-7e65-4a9e-aa41-c351e129cae7.pak			
+574	SatyrRace CC - Vessnelle's Hair Collection (Patch)	labotor - Vessnelle	SatyrRaceVessnellePatch_c540a46b-183d-41d1-bcaa-2c206a3ea53d.pak			
+575	SatyrRace CC - More Beards (Patch)	labotor - bububull	SatyrRaceMoreBeardsPatch_7e585fff-d179-44be-aeb0-4f4b6d05e901.pak			
+576	Jerinski's Alt Hairs - Hobgoblin patch	jerinski	jerinski_alt-hairs_hob-patch_b69be1e4-e1b8-4863-9f72-df467b74c4b1.pak			
+577	Jerinski's Alt Hairs - Firbolg patch	jerinski	jerinski_alt-hairs_firbolg-patch_a243a929-5cf5-410a-b2a7-12f9b611150a.pak			
+578	Hobgoblin Beard Pack Mod Compatibility	Bububull, patched by Babbo	Hobgoblin_Bubu_MoreBeards_dd06f6f2-a8a0-4f20-9390-b67a77ce1c6b.pak			
+579	Hobgoblin Dreads 1 Mod Compatibility	Bububull, patched by Babbo	Hobgoblin_Bubu_Dreads1_8b62762c-9b94-45e8-a97f-70763f217fb9.pak			
+580	Hobgoblin Dreads Mod Compatibility	Bububull, patched by Babbo	Hobgoblin_Bubu_Dreads2_845cf815-cb12-4338-967d-f345f45085c4.pak			
+581	Hobgoblin Emerald BBD Hair Pack Mod Compatibility	EmeraldTechnopath, patched by Babbo	Hobgoblin_Emerald_BBD_1369bcef-88e8-4f2d-abca-dcb8773b7d88.pak			
+582	Hobgoblin Emerald Braids and Dreads Hair Pack Mod Compatibility	EmeraldTechnopath, patched by Babbo	Hobgoblin_Emerald_BraidDreads_c4606500-fd5a-4c10-9d70-11068da024f6.pak			
+583	Hobgoblin Emerald HP1 Pack Mod Compatibility	EmeraldTechnopath, patched by Babbo	Hobgoblin_Emerald_HP1_2a32c3c3-530d-4d3a-9514-3a95cf53bc92.pak			
+584	Hobgoblin Hairstyles of Faerun Mod Compatibility	Aloija, patched by Babbo	Hobgoblin_Aloija_HOF_41784380-702c-456e-b9b3-dfb1e47597e9.pak			
+585	Hobgoblin Kylin Hair Edit Mod Compatibility	Kylin, patched by Babbo	Hobgoblin_Kylin_HairEdit_a0457fdb-00cb-4f5e-8cf5-17dc6f878067.pak			
+586	Hobgoblin Tasha Hair Cauldron 2 Mod Compatibility	Tashaweeds, patched by Babbo	Hobgoblin_Tasha_Cauldron2_6d32af49-77a4-4c14-8250-dd47782e17fc.pak			
+587	Hobgoblin Tepkunset HC Mod Compatibility	Tepkunset, patched by Babbo	Hobgoblin_Tepkunset_HC_d32dd722-5743-4676-9dff-eaa1bbe5c65f.pak			
+588	Baldurian Beauty - WotD Patch	Sithembile	BaldurianBeauty_WotD_Patch_ceae24ef-671b-4f2e-9ce6-5389d1d9d758.pak			
+589	Faces of Faerûn: Whispers of the Divine: Aasimar Patch	Aloija, patched by Trips	Aloija_New_Heads_Patch_Aasimar_17d81438-2f39-4a76-a705-63f6d91c6ef1.pak			
+590	Patches for CC Races lsx	Padme4000	P4_Hair_Makeup_WorkTogether_b2c7c572-faaa-43ae-8609-29d16fd83bb0.pak			
+591	FoZ Patches_For_CC_Races_lsx	Padme4000	FoZ Patches_For_CC_Races_lsx_52aa8beb-9ab0-4e0c-a75a-14387720d1a2.pak			
+592	Homebrew Spells Compatibility AIO	xarara	HomebrewAIO_71c4a919-f376-452a-b0d7-b7be7811d2e4.pak			
+593	Metamagic Compatibility	xarara	MMSE_d8664fe8-870d-4e6d-84a0-20d1aa1a3374.pak			
+594	---------------------------|        Compatibility Patches        |---------------------------	Echelon  Raizan	Plus Separators - Compatibility Patches_2b91a1a6-9c4e-46f7-878a-8b56c164b22d.pak	Category, Plus, Separator		
+595	Compatibility Framework AIO Subclass Patch	xarara	CFAIO_4460103a-2281-4579-bb9b-2f95a32b69d3.pak			
+596	AV Item Shipment Framework	Aetherpoint, Volitio	AVItemShipmentFramework_e6333436-9cf0-4464-aaf2-39246292575e.pak		VolitionCabinet	
+597	RacialASI	Fenrules	RacialASI_1ebf4a1c-01d4-41ed-8aa1-5b3975c6d019.pak		Volition Cabinet, Mod Configuration Menu, Kender's Labs Core Libs	
+598	CompatibilityFramework	BG3 Community	SubclassCompatibilityFramework_67fbbd53-7c7d-4cfa-9409-6d737b4d92a9.pak	Template		
+599	Fallen_CC_Cleaner	FallenStar	Fallen_CC_Cleaner_04d305aa-5be7-4604-821d-d632bae2fdf3.pak			
 Override	BCPP_16x9_6chars5x6inventory	Caites	BCPP_16x9_6chars5x6inventory_f3aa4ed3-4814-41f2-b2c5-9457eb72bff3.pak			
 Override	BetterCombatLog2	Caites	BetterCombatLog2_8d5e08fa-f599-4811-86db-dd4e7586d53f.pak			
 Override	BetterContainers6x7	Caites	BetterContainers6x7_1c671c38-7446-4425-b411-21ab69579016.pak			
