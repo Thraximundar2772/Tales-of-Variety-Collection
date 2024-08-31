@@ -3977,7 +3977,7 @@
               <attribute id="MD5" type="LSString" value=""/>
               <attribute id="Name" type="FixedString" value="DreadOverlord"/>
               <attribute id="UUID" type="FixedString" value="2e686664-8fbb-4e08-9ec2-3eea5d0300ab"/>
-              <attribute id="Version" type="int32" value="217298682020626432"/>
+              <attribute id="Version" type="int32" value="217298684168110080"/>
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" type="LSWString" value="GenieWarlock"/>
